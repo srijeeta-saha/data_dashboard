@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Ship Mode,Segment,City,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+ORD-1000,2022-04-03,2022-04-05,Standard Class,Consumer,Boston,East,Furniture,Bookcases,3687.63,7,0.4,-1194.49
+ORD-1001,2022-02-12,2022-02-18,First Class,Consumer,New York,East,Furniture,Tables,3256.42,8,0.4,-729.91
+ORD-1002,2022-07-24,2022-07-26,Standard Class,Corporate,Seattle,West,Office Supplies,Envelopes,1092.26,7,0.2,-130.35
+ORD-1003,2023-07-30,2023-08-04,First Class,Home Office,Chicago,North,Office Supplies,Storage,641.63,5,0.3,-145.24
+ORD-1004,2022-04-12,2022-04-19,Same Day,Corporate,Los Angeles,West,Office Supplies,Paper,1461.15,2,0.0,447.98
+ORD-1005,2023-01-29,2023-02-01,Second Class,Home Office,Dallas,South,Office Supplies,Storage,1063.35,2,0.2,64.38
+ORD-1006,2022-07-07,2022-07-13,Second Class,Consumer,Denver,West,Furniture,Furnishings,3447.05,1,0.1,535.62
+ORD-1007,2022-03-09,2022-03-14,Same Day,Home Office,Chicago,North,Technology,Accessories,4384.31,8,0.2,-377.98
+ORD-1008,2022-05-21,2022-05-27,Same Day,Corporate,Dallas,South,Furniture,Bookcases,2815.61,7,0.2,208.65
+ORD-1009,2021-04-07,2021-04-14,Standard Class,Corporate,Los Angeles,West,Furniture,Furnishings,566.05,7,0.1,106.2
+ORD-1010,2021-01-24,2021-01-30,Standard Class,Corporate,Miami,South,Office Supplies,Envelopes,3609.19,6,0.4,-450.2
+ORD-1011,2022-06-24,2022-06-29,Second Class,Consumer,Houston,South,Furniture,Furnishings,3814.57,5,0.4,-290.71
+ORD-1012,2023-09-28,2023-09-29,Second Class,Consumer,Minneapolis,North,Furniture,Chairs,577.1,5,0.2,65.57
+ORD-1013,2023-09-23,2023-09-30,Same Day,Home Office,Los Angeles,West,Office Supplies,Paper,364.68,3,0.4,-43.85
+ORD-1014,2022-02-16,2022-02-22,Same Day,Consumer,San Francisco,West,Technology,Copiers,1572.35,9,0.2,-29.2
+ORD-1015,2021-02-13,2021-02-18,Standard Class,Consumer,Seattle,West,Furniture,Chairs,2778.53,2,0.4,-788.92
+ORD-1016,2023-11-19,2023-11-21,Same Day,Consumer,New York,East,Furniture,Bookcases,1406.82,3,0.3,-261.29
+ORD-1017,2021-07-18,2021-07-24,Standard Class,Consumer,Houston,South,Technology,Computers,2166.63,1,0.3,-274.45
+ORD-1018,2022-05-25,2022-05-27,First Class,Corporate,Houston,South,Office Supplies,Storage,967.24,3,0.3,-201.13
+ORD-1019,2021-04-14,2021-04-20,Second Class,Corporate,Los Angeles,West,Furniture,Furnishings,4996.43,4,0.0,1702.28
+ORD-1020,2021-05-01,2021-05-03,First Class,Corporate,Atlanta,South,Technology,Computers,1907.29,8,0.3,-325.08
+ORD-1021,2022-03-22,2022-03-23,Standard Class,Consumer,Miami,South,Furniture,Tables,2904.32,6,0.4,-963.4
+ORD-1022,2023-11-07,2023-11-08,Same Day,Consumer,Houston,South,Office Supplies,Binders,4259.69,4,0.0,973.38
+ORD-1023,2023-05-09,2023-05-15,Second Class,Home Office,Los Angeles,West,Office Supplies,Paper,2926.69,5,0.4,-746.57
+ORD-1024,2021-09-26,2021-10-02,Standard Class,Corporate,Milwaukee,North,Furniture,Bookcases,3234.59,2,0.3,-501.84
+ORD-1025,2021-09-29,2021-10-02,Same Day,Home Office,Philadelphia,East,Furniture,Tables,4406.7,3,0.1,268.18
+ORD-1026,2021-08-01,2021-08-03,First Class,Corporate,Minneapolis,North,Office Supplies,Paper,1337.04,3,0.0,364.64
+ORD-1027,2022-06-25,2022-06-30,First Class,Consumer,San Francisco,West,Office Supplies,Storage,2452.89,7,0.0,190.56
+ORD-1028,2021-11-27,2021-12-03,Standard Class,Home Office,Philadelphia,East,Technology,Computers,2220.34,2,0.3,-181.46
+ORD-1029,2021-10-31,2021-11-04,First Class,Consumer,Seattle,West,Office Supplies,Paper,654.68,1,0.2,-26.58
+ORD-1030,2023-04-13,2023-04-18,Same Day,Consumer,Seattle,West,Office Supplies,Paper,3752.4,3,0.1,785.68
+ORD-1031,2022-05-24,2022-05-27,Same Day,Consumer,Denver,West,Office Supplies,Storage,812.81,1,0.0,133.92
+ORD-1032,2022-04-12,2022-04-14,Standard Class,Corporate,Seattle,West,Technology,Accessories,137.85,5,0.1,9.59
+ORD-1033,2021-02-26,2021-02-27,Standard Class,Consumer,Minneapolis,North,Office Supplies,Envelopes,4387.65,5,0.2,-423.1
+ORD-1034,2023-11-14,2023-11-15,Same Day,Consumer,Atlanta,South,Technology,Accessories,1938.27,1,0.4,-567.87
+ORD-1035,2022-11-08,2022-11-13,First Class,Home Office,Los Angeles,West,Technology,Copiers,1583.3,5,0.0,421.04
+ORD-1036,2021-09-18,2021-09-20,First Class,Corporate,Miami,South,Technology,Copiers,2113.82,3,0.3,-98.94
+ORD-1037,2023-05-31,2023-06-07,Second Class,Home Office,Boston,East,Technology,Accessories,2908.32,8,0.2,-30.55
+ORD-1038,2022-08-05,2022-08-10,First Class,Consumer,Houston,South,Office Supplies,Binders,3325.99,4,0.4,-829.65
+ORD-1039,2022-05-17,2022-05-21,Second Class,Home Office,Los Angeles,West,Furniture,Chairs,3064.14,10,0.0,571.84
+ORD-1040,2021-10-30,2021-11-05,Second Class,Home Office,Dallas,South,Technology,Copiers,3444.36,4,0.0,976.57
+ORD-1041,2023-07-24,2023-07-26,First Class,Corporate,Houston,South,Furniture,Tables,4011.05,10,0.4,-215.12
+ORD-1042,2023-08-31,2023-09-04,Same Day,Home Office,Dallas,South,Office Supplies,Envelopes,1310.77,5,0.1,264.72
+ORD-1043,2022-08-09,2022-08-11,Second Class,Consumer,Los Angeles,West,Technology,Copiers,1373.14,2,0.2,161.9
+ORD-1044,2021-05-12,2021-05-16,Second Class,Corporate,San Francisco,West,Technology,Computers,2049.84,1,0.4,-430.92
+ORD-1045,2023-09-04,2023-09-05,Second Class,Corporate,Atlanta,South,Office Supplies,Paper,4714.85,7,0.2,358.53
+ORD-1046,2021-03-01,2021-03-05,Second Class,Home Office,Denver,West,Technology,Copiers,1693.93,8,0.3,-55.47
+ORD-1047,2023-05-28,2023-05-30,First Class,Consumer,New York,East,Technology,Phones,4336.92,7,0.1,-151.42
+ORD-1048,2022-07-24,2022-07-31,Same Day,Consumer,Atlanta,South,Technology,Accessories,4757.0,2,0.3,-829.23
+ORD-1049,2021-03-24,2021-03-31,Second Class,Consumer,New York,East,Technology,Computers,174.53,1,0.1,1.71
+ORD-1050,2023-08-11,2023-08-17,Standard Class,Consumer,San Francisco,West,Technology,Phones,1296.09,10,0.2,-129.17
+ORD-1051,2023-02-08,2023-02-12,Standard Class,Home Office,Minneapolis,North,Furniture,Chairs,4708.52,4,0.1,-128.08
+ORD-1052,2022-12-13,2022-12-18,Standard Class,Corporate,Chicago,North,Office Supplies,Paper,2153.32,6,0.2,-278.45
+ORD-1053,2023-07-31,2023-08-06,Same Day,Corporate,Miami,South,Furniture,Furnishings,781.9,5,0.1,133.03
+ORD-1054,2022-05-18,2022-05-25,Same Day,Home Office,Miami,South,Office Supplies,Storage,4674.42,4,0.2,535.17
+ORD-1055,2022-10-28,2022-10-30,First Class,Home Office,Atlanta,South,Technology,Phones,2448.0,6,0.2,218.73
+ORD-1056,2021-06-25,2021-06-27,Same Day,Home Office,Detroit,North,Office Supplies,Paper,3605.97,4,0.3,-300.91
+ORD-1057,2022-08-26,2022-08-28,First Class,Corporate,Houston,South,Technology,Phones,2033.92,10,0.1,85.14
+ORD-1058,2023-07-19,2023-07-22,First Class,Consumer,Minneapolis,North,Technology,Accessories,1546.98,4,0.1,-21.35
+ORD-1059,2022-07-21,2022-07-27,Second Class,Corporate,Denver,West,Furniture,Tables,2956.14,2,0.4,-505.39
+ORD-1060,2021-01-29,2021-02-04,First Class,Home Office,Seattle,West,Technology,Computers,2679.99,1,0.2,-365.4
+ORD-1061,2021-01-26,2021-01-31,Standard Class,Corporate,Los Angeles,West,Office Supplies,Envelopes,1436.01,3,0.3,-169.25
+ORD-1062,2023-10-05,2023-10-06,First Class,Consumer,Atlanta,South,Furniture,Chairs,2893.57,10,0.0,276.39
+ORD-1063,2023-12-07,2023-12-11,Same Day,Corporate,San Francisco,West,Furniture,Furnishings,2263.56,10,0.3,-363.97
+ORD-1064,2022-03-09,2022-03-12,Standard Class,Consumer,Boston,East,Office Supplies,Paper,3308.93,9,0.1,72.66
+ORD-1065,2022-08-20,2022-08-21,Standard Class,Home Office,Newark,East,Technology,Copiers,1172.75,8,0.2,71.42
+ORD-1066,2021-08-24,2021-08-29,Standard Class,Consumer,Denver,West,Technology,Computers,1139.55,3,0.1,253.58
+ORD-1067,2021-09-12,2021-09-16,Same Day,Corporate,Denver,West,Technology,Accessories,3449.62,9,0.3,113.16
+ORD-1068,2022-10-23,2022-10-28,Standard Class,Home Office,Newark,East,Office Supplies,Paper,1266.83,10,0.0,150.34
+ORD-1069,2023-08-22,2023-08-27,Same Day,Home Office,Detroit,North,Office Supplies,Paper,3264.52,10,0.2,-311.94
+ORD-1070,2023-04-17,2023-04-20,Same Day,Home Office,Miami,South,Furniture,Furnishings,1618.87,6,0.0,497.51
+ORD-1071,2023-07-21,2023-07-22,Standard Class,Home Office,Houston,South,Technology,Copiers,1586.3,7,0.2,-182.78
+ORD-1072,2023-11-28,2023-12-01,Second Class,Corporate,Dallas,South,Technology,Phones,3120.72,1,0.3,-194.66
+ORD-1073,2021-09-06,2021-09-07,First Class,Home Office,Denver,West,Technology,Copiers,4866.27,3,0.4,-536.29
+ORD-1074,2022-04-06,2022-04-13,Same Day,Home Office,New York,East,Office Supplies,Envelopes,4566.39,3,0.3,155.8
+ORD-1075,2023-09-16,2023-09-20,Second Class,Consumer,Milwaukee,North,Office Supplies,Storage,1233.78,4,0.4,-378.29
+ORD-1076,2021-01-06,2021-01-09,Second Class,Corporate,Minneapolis,North,Technology,Accessories,3635.73,8,0.4,-639.97
+ORD-1077,2023-07-22,2023-07-25,Same Day,Consumer,Atlanta,South,Technology,Accessories,4350.62,4,0.1,528.77
+ORD-1078,2023-03-02,2023-03-08,Second Class,Home Office,Milwaukee,North,Office Supplies,Envelopes,3966.12,1,0.1,391.05
+ORD-1079,2023-12-14,2023-12-18,Standard Class,Corporate,Chicago,North,Furniture,Furnishings,96.43,3,0.1,7.04
+ORD-1080,2022-11-04,2022-11-11,Same Day,Home Office,Chicago,North,Technology,Copiers,3378.3,6,0.4,-797.27
+ORD-1081,2022-08-12,2022-08-14,Same Day,Consumer,Boston,East,Office Supplies,Paper,3738.9,2,0.3,162.65
+ORD-1082,2021-04-25,2021-04-28,Same Day,Home Office,Minneapolis,North,Furniture,Chairs,1805.15,9,0.3,-372.45
+ORD-1083,2023-02-23,2023-02-28,Second Class,Corporate,Los Angeles,West,Furniture,Tables,3422.01,3,0.3,81.61
+ORD-1084,2023-08-11,2023-08-14,First Class,Home Office,Chicago,North,Technology,Accessories,3394.5,6,0.1,-94.51
+ORD-1085,2022-09-11,2022-09-13,First Class,Home Office,Atlanta,South,Office Supplies,Storage,4996.88,7,0.3,-1089.34
+ORD-1086,2023-03-22,2023-03-25,First Class,Consumer,Chicago,North,Office Supplies,Storage,60.33,8,0.0,19.5
+ORD-1087,2021-10-08,2021-10-14,Standard Class,Home Office,Minneapolis,North,Furniture,Tables,503.88,8,0.0,71.89
+ORD-1088,2022-08-28,2022-08-31,First Class,Home Office,Chicago,North,Office Supplies,Binders,3742.45,9,0.1,38.32
+ORD-1089,2022-08-28,2022-09-03,Second Class,Consumer,Milwaukee,North,Furniture,Bookcases,4354.58,2,0.0,829.54
+ORD-1090,2023-03-20,2023-03-21,Same Day,Home Office,Houston,South,Office Supplies,Storage,1337.0,5,0.0,249.26
+ORD-1091,2021-02-21,2021-02-26,Second Class,Home Office,Milwaukee,North,Furniture,Tables,4423.49,10,0.4,-1112.94
+ORD-1092,2023-04-17,2023-04-18,Standard Class,Consumer,Philadelphia,East,Office Supplies,Envelopes,716.09,8,0.0,101.19
+ORD-1093,2023-07-19,2023-07-22,Same Day,Home Office,Denver,West,Office Supplies,Binders,3359.02,3,0.4,-753.3
+ORD-1094,2021-03-09,2021-03-15,First Class,Consumer,Philadelphia,East,Technology,Copiers,1865.24,4,0.3,-217.47
+ORD-1095,2023-03-27,2023-03-30,Standard Class,Home Office,Chicago,North,Office Supplies,Storage,965.25,8,0.0,323.07
+ORD-1096,2022-11-15,2022-11-17,Second Class,Home Office,Los Angeles,West,Office Supplies,Paper,4944.33,9,0.4,-1426.13
+ORD-1097,2021-01-06,2021-01-09,First Class,Consumer,San Francisco,West,Furniture,Bookcases,4294.86,9,0.1,1057.64
+ORD-1098,2021-01-31,2021-02-03,Second Class,Corporate,Boston,East,Office Supplies,Paper,3954.12,1,0.1,500.81
+ORD-1099,2021-05-11,2021-05-15,Same Day,Home Office,New York,East,Furniture,Furnishings,2252.41,2,0.2,8.95
+ORD-1100,2023-07-28,2023-08-03,Same Day,Home Office,Seattle,West,Office Supplies,Paper,4820.85,7,0.0,1685.25
+ORD-1101,2021-06-15,2021-06-18,First Class,Corporate,New York,East,Technology,Copiers,3049.32,10,0.0,267.91
+ORD-1102,2021-08-23,2021-08-30,Same Day,Corporate,Chicago,North,Technology,Copiers,3280.47,4,0.4,-438.76
+ORD-1103,2023-03-28,2023-04-01,First Class,Consumer,Denver,West,Technology,Accessories,3653.47,5,0.2,-80.27
+ORD-1104,2021-07-10,2021-07-14,Standard Class,Home Office,Houston,South,Furniture,Chairs,500.89,9,0.2,46.85
+ORD-1105,2022-12-26,2023-01-02,First Class,Home Office,Milwaukee,North,Office Supplies,Paper,3333.4,1,0.3,34.76
+ORD-1106,2021-11-13,2021-11-19,First Class,Consumer,Detroit,North,Technology,Phones,2421.3,9,0.0,375.38
+ORD-1107,2021-02-23,2021-02-28,First Class,Corporate,Milwaukee,North,Office Supplies,Binders,4646.84,5,0.2,-656.66
+ORD-1108,2023-04-01,2023-04-02,Second Class,Corporate,Detroit,North,Furniture,Tables,726.54,9,0.0,56.33
+ORD-1109,2023-01-28,2023-01-31,Second Class,Consumer,Dallas,South,Technology,Accessories,3613.55,1,0.4,-618.4
+ORD-1110,2023-06-27,2023-07-03,Second Class,Home Office,Philadelphia,East,Office Supplies,Paper,2131.59,5,0.4,-463.38
+ORD-1111,2022-08-04,2022-08-10,Standard Class,Consumer,New York,East,Technology,Copiers,3398.86,5,0.3,-312.42
+ORD-1112,2022-02-23,2022-02-26,First Class,Consumer,Houston,South,Office Supplies,Paper,4727.71,5,0.1,847.43
+ORD-1113,2021-09-22,2021-09-26,Standard Class,Corporate,Boston,East,Technology,Copiers,2672.26,6,0.1,267.44
+ORD-1114,2021-06-09,2021-06-16,First Class,Consumer,Newark,East,Technology,Phones,1579.04,7,0.3,-123.13
+ORD-1115,2023-08-01,2023-08-08,Second Class,Corporate,Dallas,South,Furniture,Bookcases,3454.26,2,0.2,-426.81
+ORD-1116,2022-09-28,2022-10-04,Standard Class,Home Office,Atlanta,South,Office Supplies,Paper,1710.78,2,0.2,143.25
+ORD-1117,2022-04-29,2022-04-30,Standard Class,Consumer,San Francisco,West,Technology,Accessories,749.29,3,0.1,1.54
+ORD-1118,2022-10-10,2022-10-12,First Class,Home Office,Miami,South,Technology,Copiers,2210.02,5,0.3,-259.32
+ORD-1119,2023-08-04,2023-08-08,Standard Class,Home Office,Philadelphia,East,Technology,Phones,207.28,2,0.2,20.63
+ORD-1120,2022-01-21,2022-01-24,Same Day,Consumer,Atlanta,South,Technology,Phones,3032.93,1,0.4,-924.26
+ORD-1121,2021-03-22,2021-03-24,Second Class,Corporate,Detroit,North,Office Supplies,Paper,3543.96,10,0.3,-328.81
+ORD-1122,2022-11-24,2022-11-30,Same Day,Corporate,Milwaukee,North,Technology,Copiers,2997.47,2,0.2,-390.35
+ORD-1123,2021-06-16,2021-06-21,Second Class,Home Office,Minneapolis,North,Office Supplies,Binders,3324.79,7,0.2,-189.28
+ORD-1124,2021-09-19,2021-09-25,First Class,Consumer,Philadelphia,East,Technology,Copiers,3520.1,7,0.4,-1133.35
+ORD-1125,2022-12-01,2022-12-08,Standard Class,Corporate,Detroit,North,Technology,Computers,2441.63,3,0.1,610.39
+ORD-1126,2021-09-26,2021-10-01,Second Class,Home Office,Philadelphia,East,Office Supplies,Paper,1896.06,10,0.1,8.07
+ORD-1127,2022-05-02,2022-05-06,First Class,Corporate,Miami,South,Furniture,Furnishings,3060.77,4,0.3,-550.32
+ORD-1128,2022-08-01,2022-08-08,Second Class,Home Office,Denver,West,Technology,Copiers,1921.72,3,0.4,-431.24
+ORD-1129,2023-01-31,2023-02-05,Standard Class,Consumer,Denver,West,Technology,Phones,4672.78,5,0.4,-442.28
+ORD-1130,2021-07-07,2021-07-09,Standard Class,Corporate,Milwaukee,North,Technology,Computers,4087.18,7,0.2,527.82
+ORD-1131,2023-02-07,2023-02-09,Second Class,Consumer,Chicago,North,Furniture,Furnishings,160.37,6,0.0,48.39
+ORD-1132,2023-08-19,2023-08-23,Second Class,Home Office,Boston,East,Technology,Copiers,3084.43,4,0.0,171.81
+ORD-1133,2022-09-09,2022-09-10,Same Day,Consumer,Dallas,South,Furniture,Bookcases,257.79,10,0.3,-15.03
+ORD-1134,2021-10-22,2021-10-25,Same Day,Consumer,Boston,East,Technology,Phones,2157.61,10,0.4,-526.79
+ORD-1135,2023-12-14,2023-12-19,Same Day,Consumer,New York,East,Office Supplies,Storage,2546.49,7,0.4,-467.93
+ORD-1136,2023-01-02,2023-01-09,First Class,Consumer,Houston,South,Technology,Accessories,356.45,2,0.1,60.55
+ORD-1137,2023-08-10,2023-08-16,Same Day,Consumer,Boston,East,Technology,Accessories,2403.09,2,0.1,464.88
+ORD-1138,2021-03-27,2021-03-30,Same Day,Corporate,Detroit,North,Furniture,Chairs,4668.19,9,0.4,-1076.17
+ORD-1139,2023-01-02,2023-01-09,Same Day,Corporate,Philadelphia,East,Office Supplies,Binders,3908.59,6,0.2,-265.92
+ORD-1140,2023-10-14,2023-10-20,Same Day,Consumer,Dallas,South,Technology,Accessories,2497.67,2,0.4,-674.33
+ORD-1141,2022-10-20,2022-10-21,Same Day,Consumer,Miami,South,Office Supplies,Binders,418.74,10,0.2,-24.31
+ORD-1142,2022-12-24,2022-12-29,Standard Class,Home Office,Houston,South,Technology,Copiers,4990.79,1,0.2,208.82
+ORD-1143,2021-10-20,2021-10-27,Second Class,Home Office,Houston,South,Technology,Computers,3045.71,2,0.3,-729.63
+ORD-1144,2021-11-11,2021-11-17,Second Class,Home Office,Chicago,North,Technology,Copiers,2260.61,2,0.2,-86.8
+ORD-1145,2022-05-27,2022-05-28,Standard Class,Corporate,Minneapolis,North,Technology,Accessories,149.05,7,0.1,14.86
+ORD-1146,2022-08-08,2022-08-14,Standard Class,Corporate,Detroit,North,Office Supplies,Envelopes,4584.06,3,0.3,-870.73
+ORD-1147,2022-10-17,2022-10-23,First Class,Consumer,Los Angeles,West,Office Supplies,Envelopes,1750.18,5,0.0,376.29
+ORD-1148,2022-02-16,2022-02-23,First Class,Corporate,Los Angeles,West,Technology,Computers,711.61,9,0.3,-172.29
+ORD-1149,2022-09-26,2022-09-30,Standard Class,Consumer,Los Angeles,West,Office Supplies,Paper,4997.98,7,0.3,-461.27
+ORD-1150,2023-08-13,2023-08-19,Second Class,Consumer,Milwaukee,North,Office Supplies,Paper,2596.45,9,0.1,554.05
+ORD-1151,2023-11-28,2023-11-30,First Class,Home Office,Houston,South,Office Supplies,Paper,1534.54,4,0.1,71.81
+ORD-1152,2022-07-17,2022-07-19,Second Class,Home Office,Detroit,North,Furniture,Bookcases,3132.61,9,0.4,-595.06
+ORD-1153,2021-02-28,2021-03-01,Same Day,Home Office,Los Angeles,West,Furniture,Bookcases,246.4,4,0.4,-66.68
+ORD-1154,2023-09-17,2023-09-19,Standard Class,Consumer,Philadelphia,East,Technology,Accessories,4027.35,2,0.3,-647.48
+ORD-1155,2022-02-22,2022-02-25,First Class,Corporate,Atlanta,South,Technology,Copiers,3041.17,6,0.2,329.8
+ORD-1156,2022-05-11,2022-05-15,Standard Class,Corporate,Seattle,West,Technology,Phones,630.16,2,0.3,-110.67
+ORD-1157,2021-11-24,2021-12-01,Second Class,Corporate,Dallas,South,Office Supplies,Envelopes,1650.63,4,0.4,-220.63
+ORD-1158,2021-02-17,2021-02-18,Second Class,Home Office,Atlanta,South,Technology,Accessories,4727.26,4,0.4,-1006.11
+ORD-1159,2023-10-11,2023-10-16,Standard Class,Corporate,Minneapolis,North,Furniture,Chairs,4414.05,1,0.3,-725.12
+ORD-1160,2023-01-20,2023-01-21,First Class,Consumer,Denver,West,Technology,Accessories,2014.9,6,0.4,-365.61
+ORD-1161,2021-09-01,2021-09-03,First Class,Consumer,Miami,South,Office Supplies,Envelopes,4875.91,6,0.3,-673.07
+ORD-1162,2021-04-03,2021-04-04,Same Day,Consumer,Los Angeles,West,Office Supplies,Envelopes,702.44,9,0.2,64.06
+ORD-1163,2023-03-16,2023-03-21,Same Day,Home Office,San Francisco,West,Technology,Accessories,3701.81,9,0.2,104.09
+ORD-1164,2022-11-10,2022-11-16,Same Day,Corporate,Minneapolis,North,Technology,Phones,565.83,1,0.3,-42.37
+ORD-1165,2021-12-16,2021-12-21,Second Class,Home Office,Denver,West,Office Supplies,Paper,3152.55,7,0.4,-370.8
+ORD-1166,2021-02-08,2021-02-12,Same Day,Home Office,San Francisco,West,Furniture,Chairs,1582.19,4,0.1,116.9
+ORD-1167,2023-11-29,2023-12-01,Second Class,Corporate,Dallas,South,Office Supplies,Paper,2813.22,6,0.3,-259.82
+ORD-1168,2023-09-19,2023-09-21,First Class,Corporate,Minneapolis,North,Office Supplies,Storage,4787.54,4,0.2,83.43
+ORD-1169,2023-09-10,2023-09-13,Same Day,Corporate,Seattle,West,Office Supplies,Envelopes,2811.23,10,0.2,-178.97
+ORD-1170,2022-08-13,2022-08-19,Second Class,Consumer,Chicago,North,Furniture,Bookcases,413.57,8,0.3,-22.01
+ORD-1171,2021-08-12,2021-08-17,Second Class,Home Office,Detroit,North,Office Supplies,Storage,3709.64,9,0.1,84.35
+ORD-1172,2022-11-08,2022-11-14,Second Class,Corporate,Denver,West,Furniture,Chairs,2372.57,9,0.1,-114.94
+ORD-1173,2022-10-20,2022-10-23,Standard Class,Consumer,Miami,South,Technology,Computers,3236.57,4,0.0,795.19
+ORD-1174,2023-10-12,2023-10-14,First Class,Home Office,Atlanta,South,Furniture,Chairs,4684.31,1,0.2,529.43
+ORD-1175,2023-12-10,2023-12-14,First Class,Consumer,Newark,East,Technology,Accessories,4448.51,8,0.1,913.36
+ORD-1176,2022-06-11,2022-06-17,Second Class,Consumer,Newark,East,Technology,Computers,947.27,10,0.2,82.63
+ORD-1177,2023-04-01,2023-04-07,Standard Class,Corporate,Houston,South,Technology,Accessories,495.02,4,0.1,46.15
+ORD-1178,2022-11-07,2022-11-10,Second Class,Consumer,Miami,South,Furniture,Furnishings,2920.65,6,0.4,-1012.21
+ORD-1179,2023-04-11,2023-04-17,First Class,Home Office,Boston,East,Technology,Accessories,2522.55,5,0.2,144.01
+ORD-1180,2021-11-10,2021-11-14,Same Day,Home Office,Denver,West,Furniture,Tables,3743.72,9,0.4,-890.68
+ORD-1181,2023-12-18,2023-12-24,Second Class,Home Office,Denver,West,Furniture,Chairs,1821.69,9,0.4,-576.27
+ORD-1182,2021-08-27,2021-09-02,Same Day,Consumer,Denver,West,Furniture,Bookcases,1042.9,9,0.4,-212.08
+ORD-1183,2021-04-29,2021-05-04,First Class,Consumer,Atlanta,South,Furniture,Furnishings,2322.64,7,0.2,155.58
+ORD-1184,2023-05-18,2023-05-21,Same Day,Consumer,Los Angeles,West,Office Supplies,Paper,3507.92,2,0.4,-181.58
+ORD-1185,2023-05-11,2023-05-14,Same Day,Consumer,Detroit,North,Technology,Computers,4964.43,7,0.3,-573.09
+ORD-1186,2022-01-01,2022-01-06,Standard Class,Consumer,Los Angeles,West,Office Supplies,Storage,1977.43,4,0.1,332.92
+ORD-1187,2022-04-16,2022-04-18,Standard Class,Home Office,Milwaukee,North,Technology,Copiers,2313.91,2,0.1,75.65
+ORD-1188,2022-02-27,2022-02-28,Second Class,Home Office,Dallas,South,Office Supplies,Paper,522.47,1,0.0,96.1
+ORD-1189,2022-03-21,2022-03-28,Second Class,Home Office,Boston,East,Technology,Copiers,4321.38,5,0.0,397.74
+ORD-1190,2022-09-11,2022-09-13,First Class,Consumer,Detroit,North,Office Supplies,Storage,4928.76,5,0.4,-1398.23
+ORD-1191,2021-04-07,2021-04-10,Same Day,Corporate,Denver,West,Office Supplies,Envelopes,4709.1,6,0.3,-67.15
+ORD-1192,2023-08-28,2023-08-30,Same Day,Consumer,San Francisco,West,Technology,Copiers,4249.72,3,0.2,455.84
+ORD-1193,2022-05-13,2022-05-16,Standard Class,Home Office,Atlanta,South,Technology,Computers,1032.62,6,0.0,337.32
+ORD-1194,2021-03-22,2021-03-29,Second Class,Corporate,Denver,West,Furniture,Bookcases,382.47,9,0.4,-50.76
+ORD-1195,2022-03-10,2022-03-12,Second Class,Home Office,Los Angeles,West,Technology,Accessories,4811.15,8,0.0,1318.56
+ORD-1196,2022-08-03,2022-08-07,Same Day,Corporate,Seattle,West,Technology,Computers,2341.93,6,0.2,-134.6
+ORD-1197,2022-02-21,2022-02-24,Second Class,Consumer,Philadelphia,East,Office Supplies,Envelopes,1578.35,4,0.0,345.28
+ORD-1198,2021-11-09,2021-11-11,Same Day,Home Office,Minneapolis,North,Office Supplies,Envelopes,1662.73,4,0.3,-131.46
+ORD-1199,2023-08-02,2023-08-04,Same Day,Consumer,Milwaukee,North,Technology,Copiers,3669.21,9,0.2,-364.06
+ORD-1200,2021-04-10,2021-04-17,Standard Class,Home Office,New York,East,Office Supplies,Paper,51.79,4,0.1,10.5
+ORD-1201,2023-02-04,2023-02-05,Standard Class,Consumer,Denver,West,Furniture,Tables,3096.82,8,0.4,-235.9
+ORD-1202,2022-08-11,2022-08-12,Standard Class,Consumer,Miami,South,Furniture,Chairs,2521.04,3,0.3,-20.55
+ORD-1203,2022-12-27,2022-12-30,Same Day,Home Office,Seattle,West,Furniture,Tables,3978.78,7,0.0,644.23
+ORD-1204,2021-06-15,2021-06-21,Same Day,Home Office,Seattle,West,Office Supplies,Binders,4958.54,7,0.0,387.01
+ORD-1205,2021-06-19,2021-06-23,Standard Class,Consumer,Dallas,South,Furniture,Chairs,4229.74,2,0.2,83.57
+ORD-1206,2021-04-06,2021-04-07,Standard Class,Consumer,Seattle,West,Office Supplies,Envelopes,3428.46,10,0.2,410.71
+ORD-1207,2023-03-27,2023-03-28,First Class,Corporate,Detroit,North,Furniture,Tables,1510.4,7,0.4,-419.68
+ORD-1208,2021-04-20,2021-04-21,Same Day,Corporate,Seattle,West,Office Supplies,Paper,2196.7,10,0.0,334.29
+ORD-1209,2023-10-02,2023-10-04,Same Day,Consumer,Newark,East,Office Supplies,Storage,1791.94,10,0.3,-215.83
+ORD-1210,2022-07-03,2022-07-05,First Class,Consumer,Chicago,North,Furniture,Chairs,1912.4,6,0.1,328.74
+ORD-1211,2023-01-08,2023-01-15,Same Day,Home Office,Newark,East,Furniture,Bookcases,1363.44,7,0.1,-32.46
+ORD-1212,2022-12-26,2022-12-31,Standard Class,Corporate,Houston,South,Furniture,Chairs,483.46,7,0.4,-55.44
+ORD-1213,2023-12-04,2023-12-06,First Class,Corporate,Dallas,South,Technology,Phones,3432.87,5,0.1,-28.66
+ORD-1214,2022-07-20,2022-07-24,Same Day,Home Office,Denver,West,Furniture,Tables,1512.77,4,0.0,239.53
+ORD-1215,2022-09-16,2022-09-17,First Class,Corporate,San Francisco,West,Technology,Phones,4745.14,7,0.2,486.3
+ORD-1216,2022-10-19,2022-10-24,Same Day,Corporate,Minneapolis,North,Technology,Computers,4737.45,3,0.1,443.91
+ORD-1217,2022-10-30,2022-11-03,Second Class,Home Office,Detroit,North,Office Supplies,Envelopes,1415.89,10,0.3,-198.93
+ORD-1218,2022-03-06,2022-03-10,Same Day,Consumer,Denver,West,Office Supplies,Paper,3992.47,7,0.0,1180.53
+ORD-1219,2023-05-17,2023-05-24,Same Day,Home Office,Detroit,North,Furniture,Bookcases,1897.41,8,0.3,89.58
+ORD-1220,2021-06-24,2021-06-25,Standard Class,Home Office,Miami,South,Office Supplies,Paper,3849.39,10,0.2,-385.32
+ORD-1221,2021-01-22,2021-01-23,Second Class,Corporate,Houston,South,Technology,Copiers,1308.52,9,0.4,-164.8
+ORD-1222,2022-12-08,2022-12-09,Standard Class,Home Office,Detroit,North,Technology,Copiers,2424.2,2,0.2,-61.11
+ORD-1223,2023-07-22,2023-07-29,Same Day,Home Office,Seattle,West,Technology,Accessories,1050.2,2,0.3,-152.81
+ORD-1224,2021-04-02,2021-04-09,Second Class,Home Office,Miami,South,Technology,Phones,3559.68,2,0.0,1084.83
+ORD-1225,2022-11-09,2022-11-14,Second Class,Consumer,San Francisco,West,Office Supplies,Binders,2143.32,7,0.3,-386.75
+ORD-1226,2023-07-10,2023-07-15,First Class,Home Office,Dallas,South,Technology,Phones,2159.17,4,0.0,564.45
+ORD-1227,2023-01-20,2023-01-23,First Class,Home Office,Boston,East,Office Supplies,Paper,1001.43,8,0.0,128.89
+ORD-1228,2022-12-14,2022-12-17,Standard Class,Home Office,Houston,South,Office Supplies,Envelopes,4230.68,5,0.4,-1261.77
+ORD-1229,2022-09-18,2022-09-19,Second Class,Home Office,San Francisco,West,Technology,Phones,931.56,7,0.1,96.18
+ORD-1230,2021-12-21,2021-12-26,Same Day,Home Office,Atlanta,South,Technology,Computers,850.99,6,0.2,-91.83
+ORD-1231,2021-10-07,2021-10-09,Same Day,Home Office,Newark,East,Technology,Phones,4079.78,8,0.4,-809.3
+ORD-1232,2021-12-09,2021-12-10,Second Class,Home Office,Atlanta,South,Technology,Copiers,2835.68,5,0.1,106.7
+ORD-1233,2023-11-13,2023-11-14,Standard Class,Home Office,Milwaukee,North,Furniture,Furnishings,2872.12,6,0.2,237.05
+ORD-1234,2021-07-29,2021-08-04,Same Day,Corporate,Atlanta,South,Office Supplies,Binders,4153.75,1,0.1,163.3
+ORD-1235,2022-05-01,2022-05-03,Same Day,Consumer,Chicago,North,Furniture,Furnishings,4057.3,10,0.4,-581.25
+ORD-1236,2022-12-20,2022-12-25,First Class,Home Office,Los Angeles,West,Furniture,Tables,1419.8,5,0.4,-425.21
+ORD-1237,2023-04-23,2023-04-24,Second Class,Consumer,Detroit,North,Office Supplies,Paper,4962.58,3,0.1,796.14
+ORD-1238,2021-10-19,2021-10-24,Standard Class,Corporate,Milwaukee,North,Furniture,Furnishings,3169.36,2,0.3,-435.62
+ORD-1239,2023-09-27,2023-09-30,First Class,Consumer,Milwaukee,North,Office Supplies,Storage,2918.14,8,0.0,785.8
+ORD-1240,2023-10-11,2023-10-14,Second Class,Home Office,Dallas,South,Furniture,Furnishings,1627.87,10,0.2,-79.23
+ORD-1241,2021-07-23,2021-07-29,Same Day,Corporate,Houston,South,Technology,Phones,3923.77,3,0.3,-961.78
+ORD-1242,2022-09-11,2022-09-13,First Class,Consumer,Boston,East,Technology,Computers,4374.63,6,0.2,-533.7
+ORD-1243,2023-03-23,2023-03-29,Standard Class,Consumer,Chicago,North,Office Supplies,Binders,1541.44,2,0.1,121.42
+ORD-1244,2022-04-09,2022-04-14,Standard Class,Corporate,San Francisco,West,Technology,Phones,3406.31,6,0.0,178.55
+ORD-1245,2023-02-24,2023-02-25,First Class,Consumer,San Francisco,West,Technology,Phones,3659.2,6,0.0,296.25
+ORD-1246,2023-12-23,2023-12-28,Second Class,Corporate,Houston,South,Furniture,Tables,62.2,4,0.1,5.1
+ORD-1247,2021-10-14,2021-10-21,First Class,Consumer,Houston,South,Furniture,Chairs,633.32,7,0.3,-91.54
+ORD-1248,2022-08-07,2022-08-14,Second Class,Home Office,San Francisco,West,Technology,Phones,4707.57,5,0.0,1432.83
+ORD-1249,2021-04-22,2021-04-29,Second Class,Corporate,Seattle,West,Office Supplies,Envelopes,4491.6,2,0.1,442.27
+ORD-1250,2022-10-11,2022-10-13,Second Class,Corporate,Philadelphia,East,Office Supplies,Paper,1946.45,9,0.4,-435.5
+ORD-1251,2022-06-21,2022-06-23,First Class,Home Office,New York,East,Furniture,Chairs,218.34,7,0.0,73.06
+ORD-1252,2021-11-09,2021-11-12,Second Class,Home Office,Houston,South,Technology,Copiers,436.31,4,0.0,88.74
+ORD-1253,2023-06-15,2023-06-21,Same Day,Consumer,Minneapolis,North,Technology,Phones,4768.07,2,0.1,-155.57
+ORD-1254,2021-12-26,2021-12-27,Same Day,Corporate,Miami,South,Office Supplies,Paper,83.07,3,0.1,13.33
+ORD-1255,2022-07-05,2022-07-11,First Class,Home Office,Detroit,North,Furniture,Bookcases,4434.35,7,0.0,667.38
+ORD-1256,2023-07-22,2023-07-27,First Class,Consumer,Newark,East,Technology,Phones,1813.42,3,0.3,14.16
+ORD-1257,2023-11-09,2023-11-10,First Class,Corporate,Detroit,North,Furniture,Chairs,239.31,8,0.0,29.52
+ORD-1258,2022-04-05,2022-04-08,First Class,Consumer,Denver,West,Furniture,Chairs,1256.35,2,0.2,-86.21
+ORD-1259,2023-04-02,2023-04-03,First Class,Consumer,New York,East,Furniture,Tables,4387.42,5,0.2,360.02
+ORD-1260,2022-08-21,2022-08-26,Same Day,Consumer,Dallas,South,Furniture,Bookcases,3926.85,6,0.4,-1088.62
+ORD-1261,2021-02-18,2021-02-20,Same Day,Home Office,Denver,West,Furniture,Chairs,2716.9,1,0.0,910.97
+ORD-1262,2023-05-10,2023-05-14,Standard Class,Consumer,Detroit,North,Furniture,Tables,4806.7,2,0.1,785.87
+ORD-1263,2021-06-23,2021-06-28,Standard Class,Home Office,Atlanta,South,Office Supplies,Storage,495.97,7,0.1,70.01
+ORD-1264,2022-08-21,2022-08-24,First Class,Corporate,Boston,East,Technology,Computers,4257.55,6,0.3,-169.38
+ORD-1265,2021-10-06,2021-10-13,Same Day,Corporate,Detroit,North,Furniture,Chairs,3855.33,3,0.0,372.51
+ORD-1266,2022-03-02,2022-03-06,Second Class,Home Office,Minneapolis,North,Technology,Phones,1555.37,2,0.2,164.47
+ORD-1267,2022-11-03,2022-11-05,Standard Class,Home Office,Detroit,North,Office Supplies,Paper,474.24,7,0.1,114.06
+ORD-1268,2023-04-09,2023-04-16,Standard Class,Consumer,Chicago,North,Technology,Computers,2271.96,8,0.4,-624.89
+ORD-1269,2021-09-25,2021-09-27,First Class,Consumer,Boston,East,Furniture,Chairs,4121.89,2,0.2,230.35
+ORD-1270,2021-09-21,2021-09-22,Standard Class,Consumer,Newark,East,Furniture,Tables,4527.29,8,0.2,-512.68
+ORD-1271,2021-03-02,2021-03-06,First Class,Corporate,Atlanta,South,Office Supplies,Envelopes,3422.4,3,0.1,192.28
+ORD-1272,2022-08-28,2022-09-01,First Class,Corporate,Dallas,South,Furniture,Chairs,2071.72,2,0.4,-427.38
+ORD-1273,2021-02-09,2021-02-13,First Class,Home Office,San Francisco,West,Technology,Computers,3913.94,8,0.2,-23.85
+ORD-1274,2021-02-23,2021-02-26,Standard Class,Corporate,Detroit,North,Technology,Accessories,2993.64,5,0.0,954.16
+ORD-1275,2021-07-25,2021-07-27,Second Class,Home Office,Detroit,North,Office Supplies,Binders,3291.18,1,0.2,33.26
+ORD-1276,2022-04-30,2022-05-05,First Class,Home Office,Dallas,South,Technology,Computers,1603.66,1,0.2,199.16
+ORD-1277,2022-09-25,2022-09-27,Second Class,Consumer,Denver,West,Office Supplies,Binders,2462.37,10,0.0,164.61
+ORD-1278,2021-09-25,2021-09-28,Second Class,Consumer,Dallas,South,Furniture,Bookcases,3590.35,3,0.2,-474.4
+ORD-1279,2021-07-26,2021-07-29,Same Day,Home Office,Milwaukee,North,Furniture,Bookcases,1522.79,7,0.1,369.67
+ORD-1280,2021-12-26,2021-12-30,Same Day,Home Office,Detroit,North,Furniture,Bookcases,1547.98,1,0.2,-173.06
+ORD-1281,2021-08-02,2021-08-06,Second Class,Home Office,Boston,East,Furniture,Bookcases,720.4,6,0.0,87.46
+ORD-1282,2021-01-24,2021-01-27,Standard Class,Consumer,Newark,East,Office Supplies,Storage,1064.23,2,0.0,165.11
+ORD-1283,2023-04-28,2023-05-02,Same Day,Home Office,Dallas,South,Technology,Copiers,4411.22,2,0.2,60.91
+ORD-1284,2021-03-10,2021-03-13,First Class,Consumer,Los Angeles,West,Furniture,Furnishings,119.99,2,0.2,16.26
+ORD-1285,2022-11-24,2022-11-29,Second Class,Home Office,Houston,South,Furniture,Chairs,4926.67,7,0.3,-190.41
+ORD-1286,2022-11-10,2022-11-12,First Class,Home Office,Houston,South,Furniture,Chairs,4872.5,9,0.3,-199.0
+ORD-1287,2021-04-12,2021-04-16,Standard Class,Corporate,Chicago,North,Technology,Computers,2867.41,6,0.3,-584.73
+ORD-1288,2021-07-18,2021-07-19,Standard Class,Corporate,Boston,East,Technology,Copiers,1050.63,8,0.2,150.36
+ORD-1289,2021-07-06,2021-07-12,First Class,Consumer,Miami,South,Technology,Copiers,2729.75,7,0.1,167.35
+ORD-1290,2023-08-11,2023-08-14,Standard Class,Consumer,Atlanta,South,Furniture,Bookcases,1146.69,3,0.2,22.1
+ORD-1291,2021-05-05,2021-05-12,Same Day,Home Office,Detroit,North,Office Supplies,Envelopes,1947.79,9,0.4,-437.1
+ORD-1292,2023-03-20,2023-03-27,Second Class,Consumer,Los Angeles,West,Technology,Accessories,3577.24,9,0.4,-639.02
+ORD-1293,2022-01-30,2022-02-01,Second Class,Home Office,Dallas,South,Furniture,Tables,232.53,7,0.0,80.57
+ORD-1294,2021-05-18,2021-05-19,Same Day,Consumer,Seattle,West,Office Supplies,Storage,1952.73,5,0.3,-164.78
+ORD-1295,2021-10-31,2021-11-05,Standard Class,Corporate,Dallas,South,Furniture,Furnishings,2947.91,10,0.0,965.38
+ORD-1296,2023-09-22,2023-09-27,Second Class,Home Office,Milwaukee,North,Technology,Accessories,3052.63,7,0.0,310.33
+ORD-1297,2022-05-02,2022-05-03,First Class,Corporate,Miami,South,Furniture,Furnishings,3733.83,1,0.2,444.73
+ORD-1298,2022-04-12,2022-04-14,First Class,Home Office,Chicago,North,Technology,Copiers,1516.39,6,0.3,-26.98
+ORD-1299,2023-06-24,2023-06-26,First Class,Consumer,Dallas,South,Office Supplies,Paper,4568.9,9,0.3,-126.63
+ORD-1300,2021-10-05,2021-10-12,Second Class,Consumer,Denver,West,Furniture,Bookcases,4259.45,4,0.4,-1453.82
+ORD-1301,2023-01-09,2023-01-15,Same Day,Home Office,Los Angeles,West,Furniture,Furnishings,1011.57,9,0.2,98.17
+ORD-1302,2023-02-02,2023-02-06,First Class,Corporate,Boston,East,Office Supplies,Paper,2978.34,8,0.1,709.31
+ORD-1303,2021-02-26,2021-03-02,Second Class,Home Office,Seattle,West,Technology,Phones,267.26,4,0.4,-31.02
+ORD-1304,2023-04-19,2023-04-24,Second Class,Home Office,Seattle,West,Office Supplies,Binders,119.86,3,0.0,23.04
+ORD-1305,2022-07-18,2022-07-22,Same Day,Corporate,Philadelphia,East,Furniture,Bookcases,4479.51,4,0.2,-55.1
+ORD-1306,2023-11-14,2023-11-20,First Class,Corporate,Houston,South,Office Supplies,Paper,4833.1,10,0.2,89.11
+ORD-1307,2022-07-21,2022-07-27,Second Class,Consumer,Philadelphia,East,Technology,Phones,1639.18,5,0.2,-117.46
+ORD-1308,2021-10-14,2021-10-20,Same Day,Corporate,Seattle,West,Furniture,Furnishings,146.77,5,0.3,7.23
+ORD-1309,2022-12-04,2022-12-10,First Class,Home Office,Dallas,South,Office Supplies,Paper,3572.58,8,0.4,-566.28
+ORD-1310,2021-07-19,2021-07-23,Second Class,Home Office,Minneapolis,North,Furniture,Tables,657.16,9,0.2,44.4
+ORD-1311,2022-12-29,2022-12-31,First Class,Corporate,Detroit,North,Office Supplies,Paper,3726.17,6,0.2,-88.9
+ORD-1312,2021-04-20,2021-04-27,Same Day,Consumer,Milwaukee,North,Technology,Phones,3179.3,2,0.4,-212.09
+ORD-1313,2023-04-27,2023-04-28,First Class,Corporate,Philadelphia,East,Office Supplies,Envelopes,4356.83,4,0.1,-38.3
+ORD-1314,2021-06-15,2021-06-19,Standard Class,Corporate,Dallas,South,Furniture,Bookcases,1676.49,1,0.1,73.81
+ORD-1315,2023-09-30,2023-10-07,Same Day,Corporate,Detroit,North,Furniture,Tables,3822.57,7,0.0,339.53
+ORD-1316,2021-03-19,2021-03-24,Second Class,Consumer,Houston,South,Technology,Copiers,1013.08,6,0.2,136.79
+ORD-1317,2022-12-07,2022-12-10,Second Class,Consumer,Boston,East,Office Supplies,Binders,662.08,5,0.3,-65.55
+ORD-1318,2023-12-02,2023-12-07,First Class,Corporate,Newark,East,Technology,Accessories,2630.11,3,0.3,43.11
+ORD-1319,2021-02-09,2021-02-11,Second Class,Consumer,Milwaukee,North,Furniture,Tables,1137.12,1,0.1,15.19
+ORD-1320,2022-06-08,2022-06-15,Standard Class,Home Office,Milwaukee,North,Office Supplies,Paper,2682.97,1,0.0,612.19
+ORD-1321,2023-06-29,2023-07-03,Second Class,Home Office,Newark,East,Furniture,Chairs,635.5,3,0.2,-4.88
+ORD-1322,2023-12-02,2023-12-05,Standard Class,Corporate,New York,East,Technology,Copiers,3121.53,2,0.1,236.14
+ORD-1323,2022-02-14,2022-02-21,Same Day,Corporate,Boston,East,Furniture,Furnishings,1329.71,6,0.4,-77.21
+ORD-1324,2023-09-12,2023-09-15,Same Day,Consumer,San Francisco,West,Furniture,Furnishings,1187.84,2,0.0,298.73
+ORD-1325,2022-06-09,2022-06-15,Standard Class,Consumer,New York,East,Office Supplies,Paper,1171.18,1,0.2,-82.88
+ORD-1326,2023-05-23,2023-05-29,Second Class,Corporate,Philadelphia,East,Technology,Accessories,597.19,3,0.0,31.59
+ORD-1327,2023-02-03,2023-02-10,First Class,Corporate,Chicago,North,Technology,Accessories,1726.76,8,0.0,293.95
+ORD-1328,2021-09-29,2021-10-05,Same Day,Home Office,Houston,South,Technology,Computers,3637.53,10,0.1,-68.7
+ORD-1329,2021-03-01,2021-03-08,Standard Class,Corporate,Miami,South,Furniture,Furnishings,3428.63,8,0.1,325.46
+ORD-1330,2022-10-06,2022-10-07,Second Class,Home Office,Miami,South,Furniture,Chairs,3528.75,10,0.4,-422.54
+ORD-1331,2022-05-25,2022-05-29,Standard Class,Consumer,Milwaukee,North,Office Supplies,Paper,1741.83,9,0.3,-357.78
+ORD-1332,2021-12-05,2021-12-06,Standard Class,Home Office,Denver,West,Office Supplies,Envelopes,3762.12,5,0.2,-292.44
+ORD-1333,2022-04-27,2022-04-28,Same Day,Corporate,Denver,West,Office Supplies,Envelopes,2306.29,8,0.4,-497.17
+ORD-1334,2023-04-07,2023-04-11,First Class,Home Office,New York,East,Technology,Phones,198.44,2,0.4,-69.44
+ORD-1335,2023-01-15,2023-01-22,Same Day,Home Office,Seattle,West,Office Supplies,Envelopes,290.29,6,0.1,59.01
+ORD-1336,2021-07-19,2021-07-26,First Class,Home Office,Chicago,North,Office Supplies,Envelopes,3301.37,5,0.0,503.15
+ORD-1337,2021-10-15,2021-10-22,Second Class,Consumer,Newark,East,Furniture,Tables,3589.94,10,0.3,-782.29
+ORD-1338,2022-01-26,2022-02-01,Standard Class,Corporate,Newark,East,Technology,Computers,1702.91,10,0.3,-401.97
+ORD-1339,2021-01-09,2021-01-14,Same Day,Home Office,Atlanta,South,Office Supplies,Binders,3686.35,10,0.4,-255.86
+ORD-1340,2021-08-01,2021-08-05,Same Day,Corporate,San Francisco,West,Office Supplies,Binders,3294.46,9,0.4,-280.66
+ORD-1341,2022-08-26,2022-08-30,First Class,Home Office,Seattle,West,Technology,Copiers,4027.89,9,0.1,297.35
+ORD-1342,2022-03-06,2022-03-11,Second Class,Home Office,Detroit,North,Office Supplies,Binders,3577.63,3,0.2,452.06
+ORD-1343,2023-09-11,2023-09-16,First Class,Corporate,Minneapolis,North,Office Supplies,Paper,2861.78,9,0.3,-136.58
+ORD-1344,2023-02-20,2023-02-22,First Class,Home Office,New York,East,Office Supplies,Paper,284.26,3,0.0,31.26
+ORD-1345,2022-02-22,2022-03-01,Second Class,Home Office,Minneapolis,North,Furniture,Chairs,2715.04,2,0.2,255.78
+ORD-1346,2023-02-21,2023-02-25,Standard Class,Home Office,Houston,South,Furniture,Bookcases,2094.5,1,0.2,292.71
+ORD-1347,2023-01-24,2023-01-31,First Class,Corporate,Detroit,North,Furniture,Furnishings,2950.16,4,0.4,-858.67
+ORD-1348,2021-12-22,2021-12-28,First Class,Consumer,San Francisco,West,Office Supplies,Paper,2578.96,5,0.3,-613.3
+ORD-1349,2022-11-08,2022-11-12,Standard Class,Home Office,Los Angeles,West,Office Supplies,Storage,3554.25,6,0.1,-135.12
+ORD-1350,2022-10-13,2022-10-18,Second Class,Corporate,Chicago,North,Technology,Accessories,1115.41,9,0.1,118.44
+ORD-1351,2022-03-13,2022-03-19,Same Day,Home Office,Dallas,South,Furniture,Bookcases,1672.78,10,0.2,-103.59
+ORD-1352,2022-05-08,2022-05-14,First Class,Corporate,Newark,East,Furniture,Bookcases,3076.23,1,0.4,-851.66
+ORD-1353,2021-02-20,2021-02-25,Same Day,Corporate,Philadelphia,East,Technology,Accessories,4114.1,9,0.2,17.66
+ORD-1354,2023-11-19,2023-11-20,Standard Class,Home Office,Philadelphia,East,Technology,Computers,4742.09,9,0.1,1145.16
+ORD-1355,2021-08-01,2021-08-03,Second Class,Consumer,Newark,East,Furniture,Tables,2698.02,2,0.3,-151.17
+ORD-1356,2021-06-29,2021-06-30,Second Class,Corporate,Houston,South,Office Supplies,Storage,290.25,10,0.2,5.06
+ORD-1357,2023-06-06,2023-06-09,Standard Class,Home Office,Atlanta,South,Technology,Copiers,104.12,10,0.0,21.91
+ORD-1358,2023-10-27,2023-10-28,Same Day,Corporate,Philadelphia,East,Office Supplies,Paper,1463.39,5,0.2,46.78
+ORD-1359,2021-11-17,2021-11-22,First Class,Home Office,Atlanta,South,Office Supplies,Paper,1114.93,9,0.3,-12.23
+ORD-1360,2021-10-17,2021-10-18,Standard Class,Corporate,Los Angeles,West,Technology,Accessories,228.03,9,0.4,-38.99
+ORD-1361,2023-04-26,2023-05-02,First Class,Consumer,San Francisco,West,Office Supplies,Storage,4260.27,4,0.1,-7.3
+ORD-1362,2021-05-30,2021-06-02,Same Day,Corporate,Newark,East,Furniture,Chairs,3364.99,10,0.2,-405.61
+ORD-1363,2022-08-07,2022-08-12,First Class,Home Office,Chicago,North,Furniture,Tables,367.65,8,0.1,16.67
+ORD-1364,2022-10-10,2022-10-14,Same Day,Corporate,Minneapolis,North,Office Supplies,Binders,859.82,4,0.2,-65.47
+ORD-1365,2023-08-06,2023-08-10,Second Class,Home Office,Milwaukee,North,Furniture,Bookcases,1806.53,2,0.2,-7.06
+ORD-1366,2022-06-24,2022-06-30,Standard Class,Home Office,Boston,East,Technology,Computers,4433.95,1,0.0,1189.31
+ORD-1367,2022-06-18,2022-06-23,First Class,Corporate,Houston,South,Office Supplies,Binders,4472.05,3,0.4,-931.84
+ORD-1368,2023-08-10,2023-08-15,Second Class,Home Office,San Francisco,West,Office Supplies,Storage,2561.85,1,0.3,-360.81
+ORD-1369,2021-11-23,2021-11-25,Same Day,Corporate,Denver,West,Office Supplies,Binders,2840.46,3,0.4,-432.25
+ORD-1370,2021-05-09,2021-05-12,First Class,Corporate,Boston,East,Furniture,Furnishings,1859.79,9,0.0,466.02
+ORD-1371,2022-10-26,2022-10-27,First Class,Home Office,Houston,South,Technology,Phones,3524.61,5,0.4,-563.69
+ORD-1372,2021-06-09,2021-06-14,First Class,Corporate,Seattle,West,Technology,Copiers,1272.9,6,0.1,133.54
+ORD-1373,2023-06-20,2023-06-22,Second Class,Consumer,Dallas,South,Office Supplies,Paper,1165.35,4,0.4,-182.91
+ORD-1374,2023-04-30,2023-05-07,Same Day,Consumer,San Francisco,West,Technology,Phones,1664.52,8,0.0,323.67
+ORD-1375,2022-05-15,2022-05-16,Standard Class,Home Office,Los Angeles,West,Office Supplies,Envelopes,656.87,9,0.4,-198.15
+ORD-1376,2022-01-04,2022-01-09,First Class,Consumer,Seattle,West,Furniture,Tables,4792.03,1,0.4,-283.82
+ORD-1377,2021-12-16,2021-12-18,Second Class,Home Office,Denver,West,Technology,Copiers,4155.21,10,0.4,-1276.42
+ORD-1378,2021-05-21,2021-05-23,Same Day,Consumer,Milwaukee,North,Furniture,Bookcases,1903.49,4,0.1,-33.18
+ORD-1379,2023-12-25,2023-12-30,Standard Class,Home Office,New York,East,Furniture,Furnishings,3766.87,3,0.0,733.31
+ORD-1380,2021-03-30,2021-04-05,Same Day,Corporate,Miami,South,Office Supplies,Envelopes,2658.49,8,0.1,615.51
+ORD-1381,2023-09-05,2023-09-12,Same Day,Corporate,Philadelphia,East,Technology,Computers,1177.91,9,0.0,158.99
+ORD-1382,2023-12-01,2023-12-02,Same Day,Corporate,Los Angeles,West,Furniture,Chairs,1887.65,6,0.1,295.1
+ORD-1383,2022-06-20,2022-06-27,Same Day,Consumer,Philadelphia,East,Furniture,Furnishings,2689.8,5,0.4,-646.38
+ORD-1384,2023-01-29,2023-02-03,First Class,Home Office,Dallas,South,Office Supplies,Envelopes,2783.46,10,0.2,407.92
+ORD-1385,2022-04-16,2022-04-20,Same Day,Corporate,Houston,South,Office Supplies,Binders,3919.88,9,0.1,-78.07
+ORD-1386,2021-07-06,2021-07-13,First Class,Consumer,New York,East,Furniture,Furnishings,743.74,2,0.4,-163.17
+ORD-1387,2023-04-01,2023-04-06,Standard Class,Consumer,Milwaukee,North,Furniture,Chairs,3287.75,10,0.2,208.71
+ORD-1388,2023-11-28,2023-12-01,Second Class,Home Office,Dallas,South,Technology,Phones,989.84,4,0.4,-194.84
+ORD-1389,2021-11-19,2021-11-20,Same Day,Home Office,New York,East,Technology,Computers,4984.15,7,0.3,-718.03
+ORD-1390,2021-07-04,2021-07-09,First Class,Corporate,Los Angeles,West,Office Supplies,Paper,1436.78,6,0.4,-108.47
+ORD-1391,2023-04-08,2023-04-13,Standard Class,Home Office,Denver,West,Office Supplies,Binders,43.16,2,0.1,3.11
+ORD-1392,2022-05-28,2022-06-03,First Class,Corporate,Minneapolis,North,Technology,Phones,2224.99,4,0.3,-180.33
+ORD-1393,2021-08-27,2021-08-30,First Class,Corporate,Atlanta,South,Office Supplies,Paper,356.42,4,0.1,54.56
+ORD-1394,2022-05-24,2022-05-27,Same Day,Corporate,Minneapolis,North,Office Supplies,Paper,483.19,3,0.2,-61.46
+ORD-1395,2022-01-25,2022-01-29,Second Class,Consumer,Detroit,North,Furniture,Bookcases,3690.82,5,0.1,629.76
+ORD-1396,2021-08-07,2021-08-08,Standard Class,Corporate,San Francisco,West,Furniture,Bookcases,4602.54,9,0.3,-303.09
+ORD-1397,2022-07-17,2022-07-21,Second Class,Consumer,Milwaukee,North,Office Supplies,Storage,930.7,4,0.4,-247.49
+ORD-1398,2023-03-18,2023-03-25,Same Day,Corporate,Miami,South,Technology,Phones,3437.97,2,0.1,299.65
+ORD-1399,2021-07-26,2021-07-29,Second Class,Corporate,Newark,East,Furniture,Tables,1820.78,5,0.2,-170.89
+ORD-1400,2022-01-12,2022-01-16,First Class,Corporate,Miami,South,Office Supplies,Storage,2131.24,6,0.3,-84.79
+ORD-1401,2022-04-14,2022-04-21,Same Day,Corporate,Detroit,North,Technology,Computers,517.35,9,0.2,47.2
+ORD-1402,2021-01-20,2021-01-22,First Class,Corporate,Denver,West,Furniture,Tables,2119.17,9,0.1,526.97
+ORD-1403,2021-07-22,2021-07-28,Standard Class,Corporate,Milwaukee,North,Technology,Phones,833.44,8,0.1,161.81
+ORD-1404,2022-06-12,2022-06-15,Second Class,Home Office,Minneapolis,North,Technology,Accessories,118.78,10,0.0,18.45
+ORD-1405,2023-11-12,2023-11-16,First Class,Corporate,Seattle,West,Technology,Accessories,3878.23,7,0.3,65.5
+ORD-1406,2023-04-09,2023-04-16,First Class,Corporate,Denver,West,Furniture,Bookcases,4537.22,4,0.0,447.37
+ORD-1407,2022-07-10,2022-07-14,Same Day,Corporate,Milwaukee,North,Office Supplies,Storage,3909.25,9,0.2,290.73
+ORD-1408,2022-04-26,2022-05-02,Standard Class,Consumer,San Francisco,West,Furniture,Chairs,1273.2,7,0.0,144.09
+ORD-1409,2023-03-25,2023-03-30,Second Class,Consumer,New York,East,Technology,Phones,3829.68,10,0.0,310.89
+ORD-1410,2022-08-05,2022-08-09,Standard Class,Consumer,Dallas,South,Technology,Computers,3139.87,3,0.1,339.18
+ORD-1411,2022-07-12,2022-07-17,Same Day,Home Office,Milwaukee,North,Technology,Copiers,2235.33,10,0.4,-663.64
+ORD-1412,2023-09-14,2023-09-19,Same Day,Corporate,Miami,South,Office Supplies,Storage,1151.1,6,0.0,210.14
+ORD-1413,2023-12-08,2023-12-15,Standard Class,Home Office,Los Angeles,West,Technology,Phones,3796.3,8,0.1,201.83
+ORD-1414,2023-06-01,2023-06-08,First Class,Consumer,Houston,South,Technology,Accessories,1478.75,9,0.1,279.53
+ORD-1415,2022-05-27,2022-05-29,First Class,Consumer,Atlanta,South,Office Supplies,Envelopes,3580.39,4,0.3,-5.27
+ORD-1416,2022-08-07,2022-08-13,Second Class,Consumer,Miami,South,Office Supplies,Binders,3719.78,2,0.2,-97.19
+ORD-1417,2022-07-12,2022-07-18,Standard Class,Home Office,Milwaukee,North,Furniture,Furnishings,3121.31,3,0.1,144.18
+ORD-1418,2022-07-06,2022-07-08,Standard Class,Corporate,Philadelphia,East,Furniture,Chairs,3581.68,3,0.0,429.24
+ORD-1419,2023-10-18,2023-10-21,Standard Class,Corporate,Seattle,West,Technology,Copiers,2329.15,3,0.0,347.22
+ORD-1420,2022-01-29,2022-02-05,Second Class,Corporate,Dallas,South,Furniture,Furnishings,1265.4,2,0.3,-1.93
+ORD-1421,2023-08-02,2023-08-08,Same Day,Corporate,Dallas,South,Furniture,Chairs,3859.56,4,0.4,-579.7
+ORD-1422,2023-12-03,2023-12-04,Second Class,Consumer,Chicago,North,Technology,Computers,1281.5,1,0.2,-115.83
+ORD-1423,2021-01-31,2021-02-02,Standard Class,Consumer,Seattle,West,Office Supplies,Envelopes,3976.06,4,0.4,-1248.9
+ORD-1424,2021-07-03,2021-07-05,Standard Class,Consumer,Miami,South,Office Supplies,Binders,805.34,6,0.0,205.99
+ORD-1425,2021-09-15,2021-09-19,Same Day,Home Office,Chicago,North,Office Supplies,Binders,1178.72,6,0.4,-133.7
+ORD-1426,2021-10-03,2021-10-06,First Class,Home Office,Seattle,West,Furniture,Furnishings,4495.34,9,0.3,-170.88
+ORD-1427,2022-10-25,2022-10-31,Second Class,Consumer,Miami,South,Furniture,Tables,2352.61,9,0.4,-177.99
+ORD-1428,2023-01-22,2023-01-26,Standard Class,Home Office,Seattle,West,Technology,Accessories,23.58,3,0.4,-5.57
+ORD-1429,2021-05-10,2021-05-16,Second Class,Home Office,Minneapolis,North,Office Supplies,Binders,4836.47,8,0.3,-933.63
+ORD-1430,2021-08-15,2021-08-16,Second Class,Consumer,Minneapolis,North,Technology,Copiers,2625.54,3,0.0,165.76
+ORD-1431,2021-07-22,2021-07-23,First Class,Consumer,San Francisco,West,Furniture,Furnishings,2863.64,9,0.3,-150.7
+ORD-1432,2022-03-04,2022-03-10,First Class,Home Office,Chicago,North,Furniture,Chairs,2467.2,1,0.0,469.8
+ORD-1433,2023-12-20,2023-12-21,Standard Class,Consumer,Miami,South,Technology,Phones,3676.82,4,0.2,-465.56
+ORD-1434,2022-01-31,2022-02-05,Same Day,Home Office,San Francisco,West,Office Supplies,Envelopes,3291.25,3,0.4,-534.51
+ORD-1435,2023-05-25,2023-05-26,First Class,Home Office,Newark,East,Office Supplies,Storage,850.71,9,0.1,97.82
+ORD-1436,2022-10-08,2022-10-13,Same Day,Home Office,Seattle,West,Office Supplies,Envelopes,4957.49,7,0.2,512.88
+ORD-1437,2023-02-08,2023-02-15,Same Day,Corporate,Detroit,North,Office Supplies,Binders,2760.19,8,0.2,-115.92
+ORD-1438,2021-02-03,2021-02-08,Second Class,Corporate,Philadelphia,East,Office Supplies,Paper,692.73,4,0.2,-102.54
+ORD-1439,2021-07-13,2021-07-14,Second Class,Consumer,Boston,East,Office Supplies,Storage,2312.64,6,0.1,-19.61
+ORD-1440,2022-03-22,2022-03-28,Same Day,Home Office,Milwaukee,North,Technology,Phones,404.46,3,0.2,35.54
+ORD-1441,2023-02-21,2023-02-22,Same Day,Consumer,New York,East,Office Supplies,Storage,3905.01,7,0.2,-178.15
+ORD-1442,2021-04-21,2021-04-24,First Class,Home Office,Denver,West,Office Supplies,Paper,2631.43,3,0.2,31.52
+ORD-1443,2023-07-02,2023-07-09,First Class,Corporate,Denver,West,Furniture,Chairs,2983.76,7,0.4,-963.68
+ORD-1444,2023-09-02,2023-09-07,Same Day,Home Office,Los Angeles,West,Furniture,Bookcases,3731.67,2,0.4,-859.19
+ORD-1445,2023-09-12,2023-09-17,Second Class,Consumer,Dallas,South,Office Supplies,Binders,1006.58,4,0.3,-54.68
+ORD-1446,2021-07-03,2021-07-04,First Class,Corporate,Philadelphia,East,Technology,Copiers,3365.3,4,0.3,-472.55
+ORD-1447,2023-06-25,2023-06-30,Second Class,Home Office,Philadelphia,East,Technology,Computers,746.18,4,0.0,244.2
+ORD-1448,2021-04-22,2021-04-24,Standard Class,Corporate,Chicago,North,Furniture,Chairs,4745.73,5,0.1,999.57
+ORD-1449,2021-02-16,2021-02-19,First Class,Home Office,Newark,East,Technology,Copiers,1060.87,9,0.4,-303.87
+ORD-1450,2023-02-11,2023-02-16,Standard Class,Corporate,Houston,South,Office Supplies,Binders,4532.08,3,0.4,-1527.11
+ORD-1451,2023-08-11,2023-08-17,First Class,Consumer,Los Angeles,West,Office Supplies,Storage,4726.98,5,0.0,787.48
+ORD-1452,2023-02-19,2023-02-24,Standard Class,Consumer,Boston,East,Technology,Copiers,4883.53,8,0.0,1568.4
+ORD-1453,2021-03-23,2021-03-25,Second Class,Consumer,Los Angeles,West,Office Supplies,Envelopes,4612.91,7,0.2,-230.32
+ORD-1454,2022-09-12,2022-09-14,First Class,Corporate,Minneapolis,North,Office Supplies,Storage,4980.05,1,0.4,-1330.85
+ORD-1455,2021-11-07,2021-11-10,Second Class,Corporate,Boston,East,Office Supplies,Storage,4487.93,7,0.1,-106.19
+ORD-1456,2022-10-02,2022-10-07,Second Class,Consumer,Denver,West,Office Supplies,Binders,1659.84,3,0.4,-515.33
+ORD-1457,2021-10-25,2021-10-31,Standard Class,Consumer,Milwaukee,North,Office Supplies,Binders,4666.49,9,0.1,211.15
+ORD-1458,2023-04-28,2023-05-02,Standard Class,Consumer,Minneapolis,North,Furniture,Chairs,1530.67,4,0.2,-159.82
+ORD-1459,2022-04-21,2022-04-23,Second Class,Home Office,San Francisco,West,Furniture,Bookcases,3443.14,8,0.2,-434.38
+ORD-1460,2023-03-05,2023-03-09,Same Day,Consumer,Dallas,South,Office Supplies,Storage,2379.76,1,0.1,18.99
+ORD-1461,2022-02-23,2022-02-24,First Class,Corporate,Detroit,North,Technology,Computers,901.85,8,0.3,9.14
+ORD-1462,2023-02-19,2023-02-25,Standard Class,Home Office,Los Angeles,West,Technology,Copiers,1578.23,10,0.4,-107.73
+ORD-1463,2022-05-19,2022-05-24,Standard Class,Consumer,New York,East,Technology,Copiers,2698.59,9,0.0,586.43
+ORD-1464,2022-08-09,2022-08-13,Second Class,Corporate,Minneapolis,North,Technology,Copiers,849.1,1,0.2,28.82
+ORD-1465,2021-10-05,2021-10-09,Second Class,Corporate,Dallas,South,Furniture,Chairs,2079.53,8,0.3,-504.34
+ORD-1466,2021-09-11,2021-09-12,Same Day,Home Office,Boston,East,Technology,Accessories,588.54,2,0.3,-35.18
+ORD-1467,2021-12-16,2021-12-19,Second Class,Home Office,Los Angeles,West,Technology,Copiers,2836.15,3,0.1,-3.87
+ORD-1468,2023-07-03,2023-07-06,Standard Class,Home Office,Philadelphia,East,Technology,Accessories,3139.74,4,0.0,1003.34
+ORD-1469,2023-10-19,2023-10-24,Second Class,Home Office,Milwaukee,North,Furniture,Furnishings,4041.12,4,0.4,-344.26
+ORD-1470,2021-06-12,2021-06-17,Second Class,Consumer,Atlanta,South,Technology,Copiers,3008.51,5,0.1,645.78
+ORD-1471,2021-03-17,2021-03-19,First Class,Consumer,Seattle,West,Furniture,Chairs,4272.07,5,0.4,-421.21
+ORD-1472,2021-11-27,2021-12-03,Second Class,Corporate,Boston,East,Furniture,Furnishings,1436.22,9,0.4,-256.1
+ORD-1473,2022-10-24,2022-10-27,Standard Class,Corporate,Minneapolis,North,Furniture,Chairs,4489.7,9,0.0,1246.04
+ORD-1474,2022-11-06,2022-11-11,Standard Class,Consumer,Miami,South,Furniture,Chairs,2080.51,10,0.1,330.28
+ORD-1475,2022-10-11,2022-10-14,Same Day,Home Office,Newark,East,Technology,Accessories,2636.45,3,0.4,-642.88
+ORD-1476,2022-08-18,2022-08-20,Second Class,Home Office,Dallas,South,Technology,Computers,27.87,2,0.0,5.28
+ORD-1477,2022-12-18,2022-12-23,First Class,Corporate,Miami,South,Technology,Phones,4034.1,4,0.1,-188.03
+ORD-1478,2021-01-13,2021-01-14,Standard Class,Consumer,Philadelphia,East,Technology,Accessories,3435.46,10,0.2,-107.14
+ORD-1479,2023-08-30,2023-09-06,First Class,Corporate,Denver,West,Technology,Accessories,197.08,8,0.1,18.61
+ORD-1480,2022-10-09,2022-10-14,First Class,Consumer,Miami,South,Office Supplies,Paper,2688.71,6,0.1,331.3
+ORD-1481,2023-02-08,2023-02-14,Second Class,Home Office,Seattle,West,Technology,Phones,2680.68,7,0.1,325.15
+ORD-1482,2022-07-11,2022-07-15,Second Class,Home Office,New York,East,Technology,Accessories,452.25,5,0.1,27.8
+ORD-1483,2021-03-18,2021-03-25,Same Day,Home Office,Minneapolis,North,Furniture,Chairs,1026.45,1,0.0,187.98
+ORD-1484,2023-12-09,2023-12-12,Second Class,Consumer,Denver,West,Furniture,Bookcases,3882.16,2,0.1,702.07
+ORD-1485,2021-01-09,2021-01-12,Same Day,Consumer,New York,East,Technology,Copiers,4663.04,6,0.4,-412.39
+ORD-1486,2022-10-02,2022-10-08,First Class,Home Office,New York,East,Office Supplies,Storage,4462.84,5,0.2,-400.91
+ORD-1487,2021-11-02,2021-11-04,Standard Class,Consumer,Minneapolis,North,Technology,Phones,1382.71,9,0.0,466.65
+ORD-1488,2021-10-17,2021-10-23,First Class,Home Office,Minneapolis,North,Office Supplies,Storage,4023.93,2,0.4,-1112.83
+ORD-1489,2021-09-24,2021-09-25,Standard Class,Corporate,Chicago,North,Office Supplies,Envelopes,2364.26,1,0.0,193.34
+ORD-1490,2022-10-02,2022-10-05,Second Class,Consumer,Miami,South,Furniture,Furnishings,4090.86,8,0.4,-1335.41
+ORD-1491,2023-08-12,2023-08-16,First Class,Corporate,Miami,South,Furniture,Furnishings,1173.84,10,0.1,-8.08
+ORD-1492,2023-07-18,2023-07-22,Same Day,Consumer,Miami,South,Furniture,Bookcases,170.72,8,0.3,-36.9
+ORD-1493,2023-04-11,2023-04-18,First Class,Home Office,Chicago,North,Technology,Computers,3577.08,2,0.0,528.55
+ORD-1494,2022-05-15,2022-05-20,Second Class,Home Office,Dallas,South,Technology,Copiers,811.92,6,0.3,-109.49
+ORD-1495,2021-12-21,2021-12-27,Same Day,Corporate,Dallas,South,Technology,Accessories,3354.63,2,0.4,-332.03
+ORD-1496,2023-04-12,2023-04-13,First Class,Corporate,Philadelphia,East,Technology,Computers,2999.33,7,0.4,-355.71
+ORD-1497,2021-01-01,2021-01-08,Same Day,Home Office,Boston,East,Furniture,Tables,750.69,5,0.1,64.48
+ORD-1498,2022-09-06,2022-09-11,First Class,Consumer,Miami,South,Furniture,Tables,3975.85,7,0.2,499.17
+ORD-1499,2022-08-26,2022-08-27,First Class,Consumer,Boston,East,Office Supplies,Envelopes,1858.73,1,0.4,-110.84
+ORD-1500,2023-03-19,2023-03-25,Second Class,Home Office,Milwaukee,North,Furniture,Tables,1604.27,7,0.3,-205.65
+ORD-1501,2023-02-27,2023-03-06,Second Class,Consumer,San Francisco,West,Technology,Computers,4623.92,3,0.3,-941.98
+ORD-1502,2023-09-24,2023-09-30,Same Day,Home Office,Boston,East,Office Supplies,Paper,2194.94,7,0.1,-54.0
+ORD-1503,2023-11-10,2023-11-14,Second Class,Corporate,Atlanta,South,Office Supplies,Binders,2769.21,4,0.3,-372.7
+ORD-1504,2023-10-25,2023-10-28,Standard Class,Home Office,Boston,East,Office Supplies,Envelopes,2065.97,1,0.4,-365.87
+ORD-1505,2023-09-14,2023-09-20,Same Day,Home Office,Houston,South,Office Supplies,Storage,418.71,5,0.4,-23.0
+ORD-1506,2023-08-26,2023-09-01,First Class,Home Office,Boston,East,Office Supplies,Paper,3713.6,9,0.0,947.79
+ORD-1507,2023-07-19,2023-07-24,First Class,Corporate,Newark,East,Technology,Phones,4532.15,7,0.4,-588.53
+ORD-1508,2022-06-18,2022-06-19,First Class,Home Office,Minneapolis,North,Furniture,Chairs,3153.91,1,0.4,-943.89
+ORD-1509,2021-09-17,2021-09-22,First Class,Corporate,New York,East,Technology,Copiers,402.77,10,0.2,-29.96
+ORD-1510,2021-11-06,2021-11-12,Same Day,Consumer,Detroit,North,Furniture,Chairs,2244.33,4,0.1,63.68
+ORD-1511,2021-11-12,2021-11-19,Same Day,Home Office,Boston,East,Technology,Phones,2489.82,4,0.3,-47.03
+ORD-1512,2022-06-26,2022-07-03,Same Day,Corporate,Los Angeles,West,Furniture,Bookcases,4101.26,7,0.0,411.27
+ORD-1513,2023-03-10,2023-03-14,First Class,Corporate,Atlanta,South,Office Supplies,Binders,1327.87,1,0.4,-118.07
+ORD-1514,2021-07-19,2021-07-24,First Class,Corporate,Houston,South,Office Supplies,Storage,3194.37,5,0.3,-213.56
+ORD-1515,2023-08-03,2023-08-10,Second Class,Home Office,Milwaukee,North,Furniture,Bookcases,3382.95,10,0.1,576.1
+ORD-1516,2021-01-22,2021-01-28,Standard Class,Home Office,Minneapolis,North,Office Supplies,Binders,62.21,2,0.0,3.33
+ORD-1517,2022-05-31,2022-06-02,Second Class,Home Office,Miami,South,Technology,Computers,189.53,10,0.4,-61.11
+ORD-1518,2021-09-24,2021-09-28,Standard Class,Home Office,New York,East,Office Supplies,Paper,3288.85,3,0.4,-358.62
+ORD-1519,2021-06-05,2021-06-11,First Class,Consumer,Denver,West,Technology,Accessories,2278.15,6,0.2,184.09
+ORD-1520,2023-03-07,2023-03-10,Second Class,Corporate,Newark,East,Technology,Phones,4979.87,5,0.2,680.66
+ORD-1521,2022-01-01,2022-01-07,Second Class,Home Office,Newark,East,Technology,Computers,2470.45,7,0.1,277.16
+ORD-1522,2021-03-13,2021-03-14,Same Day,Consumer,New York,East,Technology,Accessories,370.65,1,0.2,30.83
+ORD-1523,2021-11-07,2021-11-13,Same Day,Corporate,Philadelphia,East,Furniture,Furnishings,1662.56,9,0.3,-129.03
+ORD-1524,2021-01-07,2021-01-11,First Class,Corporate,Dallas,South,Technology,Phones,4771.69,9,0.3,-1019.42
+ORD-1525,2023-01-19,2023-01-24,First Class,Home Office,Chicago,North,Technology,Phones,4269.64,8,0.2,-537.39
+ORD-1526,2022-01-27,2022-01-30,Same Day,Consumer,Denver,West,Furniture,Chairs,3485.49,6,0.0,833.68
+ORD-1527,2021-03-15,2021-03-17,Standard Class,Home Office,Dallas,South,Office Supplies,Binders,146.32,7,0.4,-40.74
+ORD-1528,2021-03-17,2021-03-20,Same Day,Home Office,Chicago,North,Technology,Copiers,299.15,4,0.0,51.35
+ORD-1529,2021-03-17,2021-03-23,Standard Class,Consumer,Los Angeles,West,Office Supplies,Binders,725.12,10,0.0,138.76
+ORD-1530,2022-09-22,2022-09-29,Standard Class,Consumer,Los Angeles,West,Furniture,Tables,3972.61,10,0.3,-264.7
+ORD-1531,2022-02-20,2022-02-24,Second Class,Corporate,New York,East,Technology,Computers,1699.97,10,0.3,-259.64
+ORD-1532,2021-05-10,2021-05-11,Second Class,Corporate,Seattle,West,Furniture,Tables,1383.99,6,0.3,-276.22
+ORD-1533,2021-07-24,2021-07-31,Standard Class,Corporate,San Francisco,West,Office Supplies,Paper,4239.89,3,0.4,-1005.54
+ORD-1534,2021-07-02,2021-07-08,Second Class,Consumer,Boston,East,Furniture,Chairs,3265.74,8,0.2,-82.08
+ORD-1535,2023-04-24,2023-04-26,Second Class,Home Office,Denver,West,Office Supplies,Storage,4691.69,10,0.4,-668.56
+ORD-1536,2022-12-14,2022-12-18,Standard Class,Home Office,Miami,South,Office Supplies,Paper,42.76,9,0.1,0.32
+ORD-1537,2022-03-03,2022-03-06,Same Day,Consumer,Milwaukee,North,Office Supplies,Binders,284.28,8,0.0,82.15
+ORD-1538,2023-01-16,2023-01-19,Standard Class,Consumer,Los Angeles,West,Office Supplies,Paper,1063.76,8,0.2,-52.88
+ORD-1539,2021-03-01,2021-03-05,First Class,Corporate,Boston,East,Office Supplies,Binders,2584.22,8,0.0,823.14
+ORD-1540,2021-08-14,2021-08-17,Same Day,Consumer,San Francisco,West,Office Supplies,Storage,1154.35,4,0.1,197.77
+ORD-1541,2023-06-12,2023-06-14,First Class,Consumer,New York,East,Technology,Copiers,1096.5,7,0.4,-234.11
+ORD-1542,2022-07-07,2022-07-09,First Class,Consumer,Miami,South,Office Supplies,Binders,1692.74,1,0.0,436.16
+ORD-1543,2021-12-17,2021-12-24,Second Class,Home Office,Newark,East,Technology,Copiers,1731.01,10,0.2,53.82
+ORD-1544,2022-03-20,2022-03-25,Second Class,Consumer,Denver,West,Furniture,Furnishings,2377.98,7,0.3,-395.34
+ORD-1545,2021-01-11,2021-01-15,Standard Class,Corporate,Detroit,North,Technology,Computers,4901.32,9,0.0,1702.63
+ORD-1546,2023-10-12,2023-10-14,Second Class,Consumer,Atlanta,South,Technology,Phones,433.8,7,0.0,111.9
+ORD-1547,2021-02-02,2021-02-06,Standard Class,Corporate,Chicago,North,Technology,Computers,3351.8,10,0.1,539.61
+ORD-1548,2023-01-29,2023-02-04,Same Day,Home Office,Dallas,South,Furniture,Furnishings,2332.19,2,0.0,718.58
+ORD-1549,2023-05-23,2023-05-30,Standard Class,Home Office,Minneapolis,North,Office Supplies,Paper,1363.55,4,0.4,-255.35
+ORD-1550,2021-04-16,2021-04-17,First Class,Consumer,Minneapolis,North,Office Supplies,Paper,1927.12,6,0.3,-123.84
+ORD-1551,2022-11-17,2022-11-19,Second Class,Home Office,Boston,East,Office Supplies,Binders,2707.38,10,0.3,-77.93
+ORD-1552,2023-10-29,2023-11-04,Same Day,Corporate,Seattle,West,Technology,Accessories,2126.19,6,0.0,146.73
+ORD-1553,2023-01-24,2023-01-31,Standard Class,Consumer,Newark,East,Technology,Accessories,3373.07,8,0.0,359.25
+ORD-1554,2021-08-12,2021-08-14,Standard Class,Corporate,Houston,South,Furniture,Bookcases,1394.19,4,0.1,137.88
+ORD-1555,2022-12-12,2022-12-16,Standard Class,Consumer,Atlanta,South,Office Supplies,Binders,2230.42,2,0.0,306.58
+ORD-1556,2023-09-23,2023-09-28,Same Day,Corporate,Minneapolis,North,Technology,Accessories,3335.96,8,0.4,-325.01
+ORD-1557,2022-04-10,2022-04-14,Second Class,Corporate,Seattle,West,Technology,Computers,1872.07,1,0.2,151.5
+ORD-1558,2022-08-08,2022-08-10,Standard Class,Corporate,Detroit,North,Technology,Computers,4866.57,2,0.1,-7.9
+ORD-1559,2022-01-13,2022-01-15,Second Class,Corporate,Seattle,West,Technology,Accessories,2821.19,6,0.0,704.36
+ORD-1560,2021-09-06,2021-09-07,First Class,Consumer,Miami,South,Office Supplies,Binders,2034.72,8,0.3,-39.56
+ORD-1561,2023-08-29,2023-09-01,Same Day,Corporate,Philadelphia,East,Office Supplies,Storage,4848.64,10,0.4,-726.97
+ORD-1562,2021-10-13,2021-10-19,Second Class,Corporate,New York,East,Office Supplies,Envelopes,2763.78,10,0.2,-394.01
+ORD-1563,2022-02-04,2022-02-09,Same Day,Home Office,Chicago,North,Furniture,Bookcases,2641.64,2,0.2,-241.14
+ORD-1564,2023-10-02,2023-10-05,Same Day,Consumer,Boston,East,Office Supplies,Envelopes,3023.8,6,0.4,-202.53
+ORD-1565,2021-01-25,2021-01-28,Standard Class,Consumer,Miami,South,Technology,Copiers,1737.7,9,0.2,248.94
+ORD-1566,2022-08-15,2022-08-17,Second Class,Home Office,Atlanta,South,Office Supplies,Envelopes,4032.25,7,0.3,-126.69
+ORD-1567,2023-08-31,2023-09-07,Same Day,Consumer,Philadelphia,East,Furniture,Tables,2636.0,10,0.2,-343.12
+ORD-1568,2021-12-25,2021-12-30,Second Class,Consumer,Newark,East,Technology,Accessories,2321.36,3,0.4,-286.52
+ORD-1569,2022-09-11,2022-09-18,Second Class,Consumer,Houston,South,Technology,Copiers,2934.34,8,0.3,-241.25
+ORD-1570,2023-08-26,2023-08-27,Second Class,Consumer,Philadelphia,East,Furniture,Bookcases,3275.99,8,0.2,-81.42
+ORD-1571,2023-01-11,2023-01-16,Standard Class,Corporate,New York,East,Technology,Copiers,2412.82,8,0.3,25.34
+ORD-1572,2021-10-27,2021-10-30,First Class,Corporate,New York,East,Technology,Computers,2316.0,1,0.1,132.51
+ORD-1573,2022-08-17,2022-08-20,Standard Class,Home Office,Houston,South,Office Supplies,Storage,2657.47,3,0.0,542.55
+ORD-1574,2022-09-09,2022-09-12,First Class,Consumer,Seattle,West,Office Supplies,Storage,3433.51,10,0.2,-416.31
+ORD-1575,2023-09-21,2023-09-25,Second Class,Consumer,Philadelphia,East,Furniture,Bookcases,1714.76,3,0.1,-33.05
+ORD-1576,2021-08-27,2021-09-03,First Class,Consumer,New York,East,Technology,Copiers,673.54,5,0.0,130.57
+ORD-1577,2022-09-16,2022-09-17,Second Class,Corporate,Dallas,South,Office Supplies,Storage,3727.41,3,0.0,435.02
+ORD-1578,2023-05-21,2023-05-27,Same Day,Consumer,Los Angeles,West,Furniture,Tables,3819.86,8,0.0,280.07
+ORD-1579,2023-08-19,2023-08-20,Standard Class,Consumer,Los Angeles,West,Furniture,Chairs,4544.48,1,0.0,317.54
+ORD-1580,2022-12-21,2022-12-22,First Class,Consumer,San Francisco,West,Office Supplies,Binders,472.08,6,0.2,63.56
+ORD-1581,2021-01-29,2021-02-03,Standard Class,Home Office,Los Angeles,West,Office Supplies,Paper,1100.65,3,0.1,263.36
+ORD-1582,2022-01-15,2022-01-19,Same Day,Corporate,Philadelphia,East,Furniture,Furnishings,3374.16,6,0.0,351.77
+ORD-1583,2021-08-20,2021-08-27,Second Class,Corporate,Denver,West,Office Supplies,Binders,4923.37,9,0.0,934.31
+ORD-1584,2021-06-18,2021-06-21,First Class,Home Office,Chicago,North,Office Supplies,Storage,2478.69,10,0.3,-408.78
+ORD-1585,2023-05-27,2023-05-29,Second Class,Consumer,Miami,South,Furniture,Furnishings,4286.73,6,0.3,135.99
+ORD-1586,2023-06-17,2023-06-22,Same Day,Home Office,Atlanta,South,Office Supplies,Paper,3299.57,7,0.0,282.99
+ORD-1587,2023-01-15,2023-01-17,Standard Class,Consumer,New York,East,Office Supplies,Binders,1706.39,7,0.4,-165.16
+ORD-1588,2022-07-14,2022-07-21,Same Day,Corporate,Miami,South,Office Supplies,Envelopes,3951.67,10,0.3,-565.76
+ORD-1589,2021-09-08,2021-09-11,Standard Class,Consumer,Chicago,North,Furniture,Furnishings,2456.92,3,0.1,340.31
+ORD-1590,2022-01-02,2022-01-06,Standard Class,Consumer,New York,East,Furniture,Furnishings,3030.83,10,0.2,-315.75
+ORD-1591,2023-10-17,2023-10-21,Standard Class,Consumer,Miami,South,Technology,Computers,2533.88,9,0.4,-625.65
+ORD-1592,2022-10-07,2022-10-14,First Class,Home Office,Atlanta,South,Furniture,Furnishings,1894.16,3,0.3,-453.09
+ORD-1593,2022-10-02,2022-10-08,Same Day,Corporate,San Francisco,West,Technology,Copiers,1957.62,8,0.0,431.96
+ORD-1594,2022-06-24,2022-06-28,First Class,Corporate,Denver,West,Office Supplies,Paper,2963.4,6,0.3,-192.38
+ORD-1595,2023-01-21,2023-01-24,Same Day,Consumer,Boston,East,Furniture,Chairs,4051.58,6,0.4,-1385.36
+ORD-1596,2022-12-21,2022-12-22,Standard Class,Home Office,Atlanta,South,Technology,Accessories,3312.98,5,0.1,67.54
+ORD-1597,2021-12-14,2021-12-15,Same Day,Corporate,Philadelphia,East,Technology,Phones,2701.32,7,0.0,508.59
+ORD-1598,2022-10-11,2022-10-15,Standard Class,Home Office,New York,East,Office Supplies,Envelopes,2860.36,8,0.2,62.25
+ORD-1599,2021-12-08,2021-12-13,Second Class,Corporate,Seattle,West,Technology,Copiers,1511.61,2,0.3,-286.41
+ORD-1600,2022-04-08,2022-04-13,Standard Class,Home Office,Milwaukee,North,Furniture,Bookcases,3719.58,10,0.0,986.85
+ORD-1601,2023-05-25,2023-05-27,First Class,Corporate,Milwaukee,North,Technology,Phones,1749.64,5,0.0,429.47
+ORD-1602,2022-05-30,2022-06-04,Second Class,Home Office,Milwaukee,North,Furniture,Furnishings,2586.54,1,0.4,-765.15
+ORD-1603,2023-12-28,2024-01-04,Second Class,Corporate,Miami,South,Furniture,Furnishings,3079.82,1,0.3,93.6
+ORD-1604,2022-09-07,2022-09-14,Second Class,Corporate,Dallas,South,Furniture,Tables,2188.24,2,0.2,236.45
+ORD-1605,2022-04-29,2022-05-03,First Class,Corporate,Minneapolis,North,Technology,Computers,1207.65,4,0.1,9.15
+ORD-1606,2021-03-17,2021-03-19,Second Class,Home Office,Atlanta,South,Office Supplies,Envelopes,813.61,5,0.1,-33.57
+ORD-1607,2021-04-24,2021-05-01,Same Day,Corporate,New York,East,Office Supplies,Envelopes,4484.6,2,0.2,136.69
+ORD-1608,2021-08-18,2021-08-23,First Class,Corporate,Boston,East,Technology,Computers,3677.71,10,0.0,759.77
+ORD-1609,2022-11-06,2022-11-13,Same Day,Consumer,Philadelphia,East,Furniture,Chairs,2929.94,4,0.3,-24.16
+ORD-1610,2022-07-17,2022-07-21,First Class,Home Office,San Francisco,West,Furniture,Tables,2053.71,9,0.4,-684.34
+ORD-1611,2022-05-20,2022-05-23,First Class,Consumer,Newark,East,Technology,Copiers,4399.58,6,0.1,259.13
+ORD-1612,2022-06-03,2022-06-08,Second Class,Corporate,Boston,East,Office Supplies,Paper,1935.76,2,0.2,234.12
+ORD-1613,2022-09-09,2022-09-10,Same Day,Home Office,Miami,South,Furniture,Furnishings,4682.89,3,0.1,183.7
+ORD-1614,2022-07-16,2022-07-23,First Class,Home Office,Chicago,North,Office Supplies,Envelopes,418.87,7,0.3,-45.52
+ORD-1615,2023-11-03,2023-11-04,First Class,Corporate,Miami,South,Furniture,Tables,1772.24,9,0.4,-232.57
+ORD-1616,2021-10-06,2021-10-07,Standard Class,Consumer,Newark,East,Furniture,Tables,2015.3,2,0.2,-112.62
+ORD-1617,2022-10-17,2022-10-21,First Class,Corporate,Denver,West,Office Supplies,Binders,2402.26,10,0.1,67.75
+ORD-1618,2022-01-08,2022-01-12,Second Class,Consumer,Seattle,West,Furniture,Furnishings,4384.42,1,0.4,-1239.27
+ORD-1619,2021-04-12,2021-04-16,First Class,Consumer,Dallas,South,Furniture,Bookcases,3097.66,2,0.4,-842.42
+ORD-1620,2023-10-10,2023-10-11,First Class,Home Office,Newark,East,Furniture,Furnishings,1137.93,5,0.1,8.15
+ORD-1621,2022-02-28,2022-03-05,Same Day,Consumer,Atlanta,South,Technology,Computers,1093.52,4,0.2,74.37
+ORD-1622,2022-06-21,2022-06-23,Standard Class,Consumer,Miami,South,Furniture,Chairs,3096.05,8,0.1,188.52
+ORD-1623,2022-03-11,2022-03-17,Standard Class,Consumer,Atlanta,South,Furniture,Bookcases,1929.81,5,0.3,-56.29
+ORD-1624,2023-08-23,2023-08-26,Standard Class,Corporate,Boston,East,Furniture,Bookcases,4983.76,1,0.4,-683.42
+ORD-1625,2021-09-28,2021-10-03,Same Day,Corporate,Miami,South,Technology,Copiers,224.8,9,0.1,6.31
+ORD-1626,2023-12-23,2023-12-27,Same Day,Corporate,Miami,South,Furniture,Chairs,726.14,3,0.0,104.55
+ORD-1627,2022-06-25,2022-06-30,Second Class,Home Office,Minneapolis,North,Technology,Accessories,1578.79,8,0.1,70.51
+ORD-1628,2021-04-22,2021-04-24,Same Day,Consumer,Dallas,South,Furniture,Tables,932.04,8,0.3,-160.25
+ORD-1629,2023-09-21,2023-09-25,Second Class,Corporate,Miami,South,Furniture,Furnishings,2475.08,2,0.1,-31.94
+ORD-1630,2021-01-09,2021-01-14,Second Class,Corporate,San Francisco,West,Furniture,Bookcases,3838.9,2,0.1,287.63
+ORD-1631,2021-09-07,2021-09-11,Standard Class,Consumer,Philadelphia,East,Technology,Phones,1880.32,3,0.0,566.15
+ORD-1632,2022-07-06,2022-07-11,Same Day,Corporate,Atlanta,South,Office Supplies,Envelopes,3296.87,10,0.2,464.63
+ORD-1633,2022-10-24,2022-10-31,Same Day,Consumer,Seattle,West,Furniture,Chairs,296.56,10,0.0,63.51
+ORD-1634,2023-03-28,2023-03-29,First Class,Home Office,Dallas,South,Technology,Computers,122.15,7,0.1,-0.14
+ORD-1635,2023-06-05,2023-06-11,Second Class,Corporate,Denver,West,Furniture,Bookcases,4035.64,10,0.2,488.8
+ORD-1636,2023-07-02,2023-07-06,Same Day,Corporate,Newark,East,Technology,Computers,2392.67,2,0.4,-406.51
+ORD-1637,2021-03-24,2021-03-29,Same Day,Home Office,Los Angeles,West,Technology,Copiers,1721.89,3,0.3,-81.05
+ORD-1638,2021-06-12,2021-06-19,Second Class,Home Office,Newark,East,Technology,Copiers,2398.5,5,0.1,588.25
+ORD-1639,2021-04-03,2021-04-08,First Class,Corporate,Houston,South,Technology,Phones,556.01,8,0.3,-70.11
+ORD-1640,2021-08-22,2021-08-28,Standard Class,Consumer,Chicago,North,Office Supplies,Paper,3314.66,7,0.1,616.04
+ORD-1641,2023-07-21,2023-07-28,Second Class,Consumer,Miami,South,Office Supplies,Storage,3357.89,6,0.4,-361.48
+ORD-1642,2023-06-08,2023-06-13,Same Day,Corporate,Los Angeles,West,Furniture,Bookcases,109.22,3,0.3,-23.48
+ORD-1643,2023-01-09,2023-01-15,Second Class,Consumer,Miami,South,Office Supplies,Envelopes,3375.54,2,0.3,-29.06
+ORD-1644,2022-01-21,2022-01-28,Same Day,Home Office,New York,East,Furniture,Chairs,153.54,4,0.3,-8.51
+ORD-1645,2021-10-31,2021-11-04,Same Day,Corporate,Denver,West,Furniture,Bookcases,2120.96,3,0.0,211.74
+ORD-1646,2022-02-17,2022-02-20,Standard Class,Home Office,Dallas,South,Furniture,Furnishings,2855.76,1,0.3,-670.31
+ORD-1647,2021-03-17,2021-03-21,Same Day,Consumer,Miami,South,Technology,Copiers,2010.41,10,0.4,-347.17
+ORD-1648,2022-10-09,2022-10-14,Same Day,Home Office,Newark,East,Office Supplies,Paper,336.28,2,0.3,5.63
+ORD-1649,2021-11-27,2021-11-30,Second Class,Home Office,Chicago,North,Technology,Copiers,3636.52,4,0.3,-534.01
+ORD-1650,2022-08-24,2022-08-30,Same Day,Consumer,Detroit,North,Office Supplies,Envelopes,3562.7,6,0.3,-0.27
+ORD-1651,2021-09-22,2021-09-24,Same Day,Corporate,Denver,West,Technology,Phones,1013.43,7,0.4,-205.06
+ORD-1652,2023-01-05,2023-01-08,Standard Class,Consumer,Los Angeles,West,Furniture,Chairs,1798.08,9,0.1,4.34
+ORD-1653,2021-09-05,2021-09-10,Standard Class,Home Office,Detroit,North,Technology,Phones,1136.0,6,0.2,168.24
+ORD-1654,2023-06-16,2023-06-23,Standard Class,Home Office,Chicago,North,Furniture,Chairs,2296.54,10,0.0,786.33
+ORD-1655,2021-08-30,2021-09-06,Same Day,Home Office,Boston,East,Office Supplies,Paper,1042.82,5,0.2,-107.3
+ORD-1656,2023-01-15,2023-01-18,Same Day,Consumer,Dallas,South,Office Supplies,Paper,4099.42,8,0.0,1248.6
+ORD-1657,2023-11-01,2023-11-03,First Class,Home Office,Seattle,West,Technology,Accessories,444.46,7,0.2,28.69
+ORD-1658,2021-10-10,2021-10-17,First Class,Consumer,San Francisco,West,Furniture,Furnishings,2155.54,9,0.3,41.86
+ORD-1659,2021-06-23,2021-06-26,Standard Class,Home Office,Houston,South,Furniture,Chairs,1587.73,7,0.1,127.37
+ORD-1660,2023-05-09,2023-05-13,First Class,Consumer,Seattle,West,Office Supplies,Paper,4431.2,6,0.4,-389.66
+ORD-1661,2023-07-03,2023-07-09,Same Day,Home Office,Milwaukee,North,Office Supplies,Binders,1041.57,10,0.4,-169.46
+ORD-1662,2022-09-10,2022-09-11,First Class,Consumer,Detroit,North,Office Supplies,Envelopes,204.11,3,0.2,-6.74
+ORD-1663,2021-11-24,2021-11-25,First Class,Home Office,Philadelphia,East,Office Supplies,Storage,158.9,4,0.4,-27.37
+ORD-1664,2023-02-03,2023-02-06,Same Day,Corporate,Houston,South,Office Supplies,Paper,3142.41,2,0.2,-354.64
+ORD-1665,2023-12-29,2024-01-05,Second Class,Home Office,Boston,East,Technology,Accessories,2985.83,10,0.2,-179.86
+ORD-1666,2022-11-03,2022-11-08,Same Day,Corporate,Houston,South,Office Supplies,Binders,2920.2,3,0.2,-40.03
+ORD-1667,2021-09-24,2021-09-28,Same Day,Home Office,Newark,East,Furniture,Chairs,1089.63,9,0.0,175.2
+ORD-1668,2023-06-21,2023-06-27,Second Class,Consumer,Atlanta,South,Technology,Copiers,4656.56,7,0.3,-141.95
+ORD-1669,2023-11-18,2023-11-25,Second Class,Home Office,San Francisco,West,Technology,Copiers,2655.12,1,0.1,230.01
+ORD-1670,2021-09-05,2021-09-08,First Class,Corporate,Chicago,North,Furniture,Furnishings,2867.39,2,0.0,593.07
+ORD-1671,2021-02-27,2021-03-06,First Class,Consumer,Milwaukee,North,Technology,Accessories,731.49,5,0.4,-163.47
+ORD-1672,2021-09-08,2021-09-13,First Class,Home Office,Los Angeles,West,Office Supplies,Envelopes,1756.27,10,0.0,307.83
+ORD-1673,2021-09-29,2021-10-06,Second Class,Home Office,Atlanta,South,Technology,Copiers,709.84,8,0.3,-15.26
+ORD-1674,2022-04-22,2022-04-26,First Class,Home Office,Milwaukee,North,Furniture,Furnishings,1708.21,8,0.0,576.39
+ORD-1675,2021-09-11,2021-09-17,Standard Class,Home Office,Philadelphia,East,Furniture,Chairs,2805.58,9,0.1,663.66
+ORD-1676,2023-12-26,2023-12-28,Same Day,Consumer,Los Angeles,West,Technology,Phones,4812.64,4,0.2,414.02
+ORD-1677,2021-02-17,2021-02-20,First Class,Corporate,Milwaukee,North,Technology,Phones,2196.35,9,0.3,-533.24
+ORD-1678,2021-12-11,2021-12-14,First Class,Corporate,Chicago,North,Furniture,Chairs,737.29,3,0.2,59.35
+ORD-1679,2021-02-25,2021-03-03,Same Day,Corporate,San Francisco,West,Furniture,Bookcases,311.34,3,0.3,-68.61
+ORD-1680,2022-02-19,2022-02-21,Same Day,Consumer,Chicago,North,Technology,Phones,3765.63,9,0.4,-1050.81
+ORD-1681,2023-04-14,2023-04-15,First Class,Home Office,Milwaukee,North,Furniture,Bookcases,2431.17,1,0.3,-145.72
+ORD-1682,2023-04-14,2023-04-18,First Class,Home Office,Philadelphia,East,Furniture,Tables,437.86,3,0.4,-126.53
+ORD-1683,2021-03-27,2021-03-28,Standard Class,Consumer,Denver,West,Furniture,Furnishings,4066.97,3,0.4,-1070.53
+ORD-1684,2022-12-21,2022-12-28,Standard Class,Consumer,Atlanta,South,Technology,Accessories,3168.39,5,0.4,-309.85
+ORD-1685,2021-09-09,2021-09-16,Second Class,Home Office,Newark,East,Technology,Phones,715.46,7,0.4,-36.03
+ORD-1686,2023-07-17,2023-07-20,First Class,Consumer,Minneapolis,North,Office Supplies,Storage,1244.72,8,0.2,-59.14
+ORD-1687,2021-01-09,2021-01-10,Same Day,Home Office,Denver,West,Office Supplies,Paper,3370.08,8,0.3,-280.6
+ORD-1688,2023-07-01,2023-07-07,Same Day,Consumer,New York,East,Office Supplies,Paper,634.61,6,0.3,-1.12
+ORD-1689,2022-01-31,2022-02-04,Second Class,Consumer,Philadelphia,East,Furniture,Furnishings,66.63,6,0.0,18.49
+ORD-1690,2023-10-09,2023-10-12,Second Class,Consumer,Detroit,North,Office Supplies,Binders,203.24,10,0.3,4.34
+ORD-1691,2022-07-23,2022-07-28,Second Class,Consumer,Los Angeles,West,Office Supplies,Envelopes,2511.62,10,0.1,290.18
+ORD-1692,2022-06-16,2022-06-21,Second Class,Home Office,San Francisco,West,Office Supplies,Paper,4280.29,5,0.4,-562.13
+ORD-1693,2021-01-05,2021-01-09,Same Day,Corporate,Newark,East,Office Supplies,Storage,3212.01,6,0.0,983.38
+ORD-1694,2023-01-11,2023-01-16,Same Day,Corporate,Milwaukee,North,Furniture,Furnishings,3799.93,7,0.1,-136.46
+ORD-1695,2021-06-17,2021-06-22,Standard Class,Consumer,Philadelphia,East,Technology,Computers,4042.21,7,0.1,983.99
+ORD-1696,2021-05-09,2021-05-15,First Class,Corporate,Seattle,West,Furniture,Bookcases,3133.97,1,0.0,607.96
+ORD-1697,2022-11-29,2022-12-06,Standard Class,Home Office,San Francisco,West,Furniture,Furnishings,291.08,4,0.2,1.72
+ORD-1698,2021-06-25,2021-06-26,Second Class,Consumer,Houston,South,Furniture,Furnishings,4585.24,2,0.3,-715.37
+ORD-1699,2021-05-15,2021-05-16,Same Day,Consumer,Atlanta,South,Furniture,Bookcases,3394.27,7,0.4,-1134.84
+ORD-1700,2023-02-26,2023-03-02,Standard Class,Corporate,Atlanta,South,Furniture,Chairs,3979.92,6,0.4,-653.63
+ORD-1701,2021-07-30,2021-07-31,Second Class,Home Office,Chicago,North,Office Supplies,Binders,2983.97,4,0.0,679.95
+ORD-1702,2023-06-30,2023-07-02,Same Day,Home Office,Milwaukee,North,Technology,Copiers,1230.9,5,0.0,83.88
+ORD-1703,2023-08-20,2023-08-23,Second Class,Consumer,Detroit,North,Technology,Computers,3024.58,1,0.2,-119.02
+ORD-1704,2022-12-06,2022-12-08,Second Class,Home Office,Denver,West,Office Supplies,Paper,4883.02,6,0.1,906.19
+ORD-1705,2022-11-19,2022-11-24,Standard Class,Corporate,Miami,South,Office Supplies,Envelopes,1512.17,8,0.2,-153.21
+ORD-1706,2023-08-14,2023-08-19,Same Day,Consumer,San Francisco,West,Furniture,Tables,1081.43,6,0.3,-32.04
+ORD-1707,2021-01-21,2021-01-22,Same Day,Consumer,Miami,South,Furniture,Chairs,1802.28,5,0.4,-568.52
+ORD-1708,2022-02-10,2022-02-13,Second Class,Consumer,Detroit,North,Furniture,Chairs,887.25,6,0.2,58.25
+ORD-1709,2021-07-27,2021-07-28,First Class,Consumer,Seattle,West,Furniture,Tables,4160.6,2,0.1,264.93
+ORD-1710,2023-02-02,2023-02-08,Same Day,Home Office,Minneapolis,North,Technology,Computers,873.37,10,0.4,-49.67
+ORD-1711,2022-01-24,2022-01-26,Second Class,Consumer,Boston,East,Furniture,Tables,2672.12,7,0.2,-145.94
+ORD-1712,2022-11-03,2022-11-05,Same Day,Consumer,San Francisco,West,Office Supplies,Storage,285.23,9,0.2,31.9
+ORD-1713,2023-11-08,2023-11-12,Same Day,Consumer,Boston,East,Technology,Phones,3761.51,9,0.4,-894.19
+ORD-1714,2023-10-11,2023-10-15,Standard Class,Consumer,Milwaukee,North,Office Supplies,Storage,1356.31,10,0.3,-79.44
+ORD-1715,2023-03-22,2023-03-24,First Class,Home Office,San Francisco,West,Furniture,Furnishings,1543.88,6,0.3,-121.33
+ORD-1716,2023-06-30,2023-07-05,First Class,Corporate,Philadelphia,East,Furniture,Chairs,1770.84,9,0.4,-597.94
+ORD-1717,2023-01-23,2023-01-30,Same Day,Consumer,Atlanta,South,Technology,Copiers,2497.76,3,0.2,-88.14
+ORD-1718,2021-06-18,2021-06-21,First Class,Consumer,Minneapolis,North,Office Supplies,Paper,4216.16,2,0.4,-784.22
+ORD-1719,2021-03-20,2021-03-25,First Class,Home Office,Philadelphia,East,Furniture,Chairs,1017.53,5,0.1,155.21
+ORD-1720,2021-01-18,2021-01-25,Same Day,Home Office,Minneapolis,North,Furniture,Tables,1511.38,7,0.2,128.37
+ORD-1721,2022-04-12,2022-04-14,Same Day,Home Office,Newark,East,Technology,Computers,3622.21,9,0.1,334.44
+ORD-1722,2022-01-20,2022-01-24,Standard Class,Corporate,Miami,South,Technology,Phones,3855.25,8,0.3,-721.41
+ORD-1723,2021-01-20,2021-01-24,Same Day,Home Office,Seattle,West,Office Supplies,Binders,4055.8,7,0.2,-194.89
+ORD-1724,2021-02-17,2021-02-22,Same Day,Corporate,Miami,South,Office Supplies,Storage,3931.08,6,0.1,-15.3
+ORD-1725,2022-01-21,2022-01-25,Standard Class,Consumer,Denver,West,Technology,Phones,561.02,5,0.4,-34.46
+ORD-1726,2023-09-28,2023-09-29,First Class,Consumer,New York,East,Office Supplies,Binders,949.73,7,0.0,307.15
+ORD-1727,2021-04-28,2021-05-01,Same Day,Consumer,Denver,West,Technology,Phones,2602.29,7,0.1,124.99
+ORD-1728,2021-05-21,2021-05-25,First Class,Corporate,Newark,East,Furniture,Furnishings,4776.38,4,0.1,-52.64
+ORD-1729,2023-10-27,2023-11-02,Same Day,Consumer,Dallas,South,Furniture,Bookcases,3430.48,3,0.2,-306.99
+ORD-1730,2023-10-03,2023-10-07,Same Day,Corporate,Miami,South,Office Supplies,Binders,2324.22,5,0.0,630.3
+ORD-1731,2022-05-26,2022-05-28,Standard Class,Corporate,Milwaukee,North,Technology,Computers,4501.82,3,0.3,-507.14
+ORD-1732,2022-08-21,2022-08-27,Standard Class,Corporate,Philadelphia,East,Furniture,Tables,4583.16,7,0.1,1020.31
+ORD-1733,2023-07-13,2023-07-15,Standard Class,Home Office,Newark,East,Furniture,Bookcases,1278.78,1,0.4,-430.45
+ORD-1734,2022-02-03,2022-02-07,First Class,Home Office,Atlanta,South,Technology,Accessories,208.12,3,0.2,-24.06
+ORD-1735,2021-06-19,2021-06-24,Second Class,Consumer,Houston,South,Technology,Copiers,3291.97,5,0.3,-684.48
+ORD-1736,2022-08-26,2022-08-27,First Class,Consumer,Boston,East,Office Supplies,Paper,2682.58,1,0.3,-535.08
+ORD-1737,2021-03-12,2021-03-18,Standard Class,Corporate,Dallas,South,Technology,Computers,2670.85,9,0.3,-109.44
+ORD-1738,2021-04-10,2021-04-17,Second Class,Consumer,Chicago,North,Technology,Phones,1899.43,6,0.1,434.3
+ORD-1739,2021-01-30,2021-02-02,Second Class,Home Office,New York,East,Furniture,Furnishings,4106.22,2,0.0,477.02
+ORD-1740,2022-11-01,2022-11-04,Same Day,Corporate,Los Angeles,West,Furniture,Furnishings,2819.03,9,0.1,387.34
+ORD-1741,2023-01-01,2023-01-04,Same Day,Consumer,New York,East,Furniture,Tables,884.64,1,0.3,-47.6
+ORD-1742,2023-01-26,2023-01-27,Same Day,Consumer,Miami,South,Furniture,Chairs,355.31,10,0.1,26.05
+ORD-1743,2023-03-07,2023-03-13,Same Day,Consumer,Seattle,West,Technology,Phones,4624.28,6,0.1,229.43
+ORD-1744,2023-11-13,2023-11-19,Second Class,Consumer,Milwaukee,North,Furniture,Furnishings,3714.23,1,0.4,-645.38
+ORD-1745,2022-05-14,2022-05-19,Second Class,Consumer,Newark,East,Technology,Computers,415.36,5,0.1,25.9
+ORD-1746,2023-06-28,2023-07-04,Same Day,Home Office,Dallas,South,Furniture,Chairs,4389.11,1,0.1,146.76
+ORD-1747,2022-12-03,2022-12-05,Second Class,Home Office,Minneapolis,North,Furniture,Tables,1044.97,4,0.0,336.47
+ORD-1748,2023-06-25,2023-07-01,Standard Class,Home Office,Dallas,South,Office Supplies,Storage,50.09,4,0.3,-11.47
+ORD-1749,2021-12-22,2021-12-27,Same Day,Home Office,Los Angeles,West,Furniture,Tables,2753.26,2,0.1,57.52
+ORD-1750,2022-05-17,2022-05-21,Same Day,Home Office,Dallas,South,Technology,Computers,898.65,10,0.1,36.78
+ORD-1751,2023-01-07,2023-01-11,Same Day,Consumer,Los Angeles,West,Technology,Copiers,1901.03,9,0.3,-223.54
+ORD-1752,2021-06-20,2021-06-27,Second Class,Corporate,Atlanta,South,Furniture,Furnishings,4534.16,3,0.2,129.47
+ORD-1753,2022-08-04,2022-08-08,Same Day,Consumer,Atlanta,South,Technology,Accessories,2819.47,3,0.3,-644.02
+ORD-1754,2023-10-23,2023-10-29,Same Day,Home Office,Los Angeles,West,Furniture,Chairs,3632.22,7,0.3,-467.22
+ORD-1755,2021-05-26,2021-05-30,Second Class,Consumer,Minneapolis,North,Technology,Copiers,4427.3,10,0.0,732.49
+ORD-1756,2023-01-25,2023-01-31,Second Class,Corporate,Atlanta,South,Technology,Accessories,307.37,4,0.3,8.59
+ORD-1757,2022-06-20,2022-06-25,Second Class,Consumer,Boston,East,Technology,Phones,2288.24,10,0.1,60.15
+ORD-1758,2021-06-14,2021-06-19,First Class,Home Office,Newark,East,Furniture,Furnishings,4551.55,7,0.3,-911.46
+ORD-1759,2023-04-23,2023-04-30,First Class,Consumer,Minneapolis,North,Office Supplies,Envelopes,4384.47,10,0.0,362.96
+ORD-1760,2022-09-23,2022-09-24,Same Day,Home Office,Milwaukee,North,Office Supplies,Binders,4935.39,2,0.3,-1231.51
+ORD-1761,2021-12-16,2021-12-18,Standard Class,Corporate,Atlanta,South,Office Supplies,Storage,1885.76,3,0.1,17.74
+ORD-1762,2022-01-10,2022-01-17,Same Day,Home Office,Los Angeles,West,Furniture,Tables,3800.64,7,0.2,550.65
+ORD-1763,2022-08-24,2022-08-25,Second Class,Corporate,New York,East,Office Supplies,Binders,1901.09,1,0.2,-248.51
+ORD-1764,2021-05-06,2021-05-09,Standard Class,Consumer,Houston,South,Office Supplies,Paper,3763.96,1,0.0,939.47
+ORD-1765,2023-08-28,2023-09-04,First Class,Consumer,Newark,East,Technology,Accessories,1698.41,6,0.3,-253.12
+ORD-1766,2021-04-28,2021-05-01,Second Class,Consumer,Milwaukee,North,Office Supplies,Envelopes,4367.93,7,0.0,222.44
+ORD-1767,2023-01-25,2023-01-29,Standard Class,Home Office,Boston,East,Office Supplies,Storage,3099.39,4,0.3,-296.07
+ORD-1768,2022-10-29,2022-11-04,Standard Class,Corporate,Chicago,North,Furniture,Bookcases,2232.64,10,0.4,-456.89
+ORD-1769,2022-08-25,2022-08-30,Standard Class,Consumer,Atlanta,South,Technology,Phones,991.48,10,0.1,209.16
+ORD-1770,2021-12-11,2021-12-15,Second Class,Consumer,Atlanta,South,Furniture,Bookcases,4776.16,4,0.3,-244.57
+ORD-1771,2023-06-10,2023-06-16,Second Class,Home Office,Los Angeles,West,Office Supplies,Paper,165.52,5,0.2,19.99
+ORD-1772,2021-10-06,2021-10-11,Second Class,Home Office,Chicago,North,Office Supplies,Envelopes,3175.07,6,0.3,-707.62
+ORD-1773,2023-02-21,2023-02-27,Second Class,Consumer,Newark,East,Office Supplies,Storage,3217.67,7,0.4,-193.46
+ORD-1774,2021-08-17,2021-08-18,First Class,Consumer,Chicago,North,Furniture,Bookcases,1714.38,2,0.4,-118.01
+ORD-1775,2021-05-07,2021-05-12,First Class,Home Office,Minneapolis,North,Technology,Phones,2687.3,6,0.3,118.12
+ORD-1776,2023-03-21,2023-03-22,Second Class,Corporate,Los Angeles,West,Office Supplies,Binders,2700.7,5,0.3,-419.21
+ORD-1777,2021-03-12,2021-03-17,First Class,Home Office,Dallas,South,Furniture,Bookcases,1614.29,2,0.4,-85.4
+ORD-1778,2022-08-20,2022-08-26,Second Class,Home Office,Atlanta,South,Office Supplies,Binders,4833.15,6,0.0,1664.26
+ORD-1779,2022-01-02,2022-01-09,Standard Class,Home Office,Los Angeles,West,Office Supplies,Binders,2447.77,3,0.3,-392.3
+ORD-1780,2022-12-15,2022-12-22,First Class,Home Office,Atlanta,South,Technology,Copiers,1968.99,5,0.0,410.25
+ORD-1781,2021-09-26,2021-09-29,First Class,Corporate,Los Angeles,West,Office Supplies,Envelopes,3766.29,1,0.4,-339.88
+ORD-1782,2023-09-16,2023-09-19,Standard Class,Corporate,Denver,West,Office Supplies,Binders,4488.15,4,0.1,69.3
+ORD-1783,2023-05-25,2023-05-31,Second Class,Consumer,Newark,East,Office Supplies,Binders,4211.47,8,0.0,331.92
+ORD-1784,2021-11-01,2021-11-07,Same Day,Corporate,Newark,East,Office Supplies,Storage,3618.3,4,0.1,-144.02
+ORD-1785,2021-07-03,2021-07-10,First Class,Consumer,Milwaukee,North,Office Supplies,Binders,2329.1,8,0.3,-389.97
+ORD-1786,2023-09-29,2023-10-05,Same Day,Corporate,New York,East,Furniture,Chairs,3350.59,10,0.4,-946.61
+ORD-1787,2023-09-19,2023-09-25,First Class,Consumer,Newark,East,Office Supplies,Binders,3519.63,2,0.2,75.41
+ORD-1788,2023-12-22,2023-12-26,Second Class,Home Office,Denver,West,Technology,Phones,338.38,2,0.4,-63.72
+ORD-1789,2023-07-05,2023-07-12,Second Class,Consumer,New York,East,Furniture,Tables,1585.19,4,0.0,140.52
+ORD-1790,2023-11-03,2023-11-06,Second Class,Corporate,Chicago,North,Furniture,Chairs,1830.53,1,0.4,-546.45
+ORD-1791,2021-10-14,2021-10-19,Second Class,Home Office,Newark,East,Office Supplies,Storage,2462.41,6,0.2,16.74
+ORD-1792,2021-03-17,2021-03-19,Second Class,Home Office,Boston,East,Office Supplies,Paper,725.5,10,0.1,172.11
+ORD-1793,2021-06-02,2021-06-07,Same Day,Corporate,Milwaukee,North,Technology,Computers,1289.74,3,0.3,-71.03
+ORD-1794,2022-02-22,2022-02-23,First Class,Home Office,Boston,East,Technology,Copiers,3155.25,4,0.2,468.89
+ORD-1795,2023-06-08,2023-06-12,Standard Class,Home Office,Seattle,West,Technology,Computers,149.03,5,0.4,-41.1
+ORD-1796,2022-11-06,2022-11-12,Second Class,Corporate,New York,East,Office Supplies,Envelopes,463.09,3,0.2,38.63
+ORD-1797,2023-02-15,2023-02-16,Same Day,Consumer,Boston,East,Furniture,Furnishings,3918.01,5,0.0,402.46
+ORD-1798,2021-07-22,2021-07-23,Same Day,Corporate,Minneapolis,North,Office Supplies,Storage,870.32,9,0.3,-170.41
+ORD-1799,2021-09-16,2021-09-18,Second Class,Home Office,San Francisco,West,Technology,Phones,1906.43,6,0.2,-255.73
+ORD-1800,2023-06-18,2023-06-21,Second Class,Corporate,Dallas,South,Office Supplies,Envelopes,3996.38,7,0.4,-1054.86
+ORD-1801,2021-07-04,2021-07-10,Standard Class,Consumer,Philadelphia,East,Technology,Copiers,415.78,3,0.1,97.07
+ORD-1802,2023-05-19,2023-05-25,Standard Class,Corporate,Chicago,North,Office Supplies,Envelopes,2553.24,9,0.1,239.74
+ORD-1803,2023-05-21,2023-05-27,Standard Class,Home Office,New York,East,Office Supplies,Binders,2680.94,9,0.2,-205.71
+ORD-1804,2021-06-03,2021-06-06,Same Day,Corporate,Dallas,South,Furniture,Tables,4200.26,1,0.4,-1024.92
+ORD-1805,2022-11-24,2022-11-30,First Class,Corporate,Houston,South,Furniture,Bookcases,1263.83,2,0.4,-119.77
+ORD-1806,2021-01-05,2021-01-11,Standard Class,Corporate,Dallas,South,Technology,Accessories,3163.26,5,0.3,-584.45
+ORD-1807,2023-08-01,2023-08-04,Same Day,Corporate,Houston,South,Furniture,Bookcases,1505.79,3,0.0,77.62
+ORD-1808,2022-02-09,2022-02-10,Standard Class,Consumer,Newark,East,Furniture,Furnishings,2654.9,8,0.1,194.38
+ORD-1809,2023-02-06,2023-02-09,Standard Class,Corporate,Milwaukee,North,Furniture,Furnishings,1835.19,5,0.1,203.57
+ORD-1810,2023-06-08,2023-06-09,Standard Class,Consumer,Miami,South,Furniture,Tables,1809.0,5,0.1,-30.39
+ORD-1811,2021-11-25,2021-12-01,Standard Class,Corporate,Houston,South,Technology,Accessories,1010.98,5,0.3,38.33
+ORD-1812,2022-10-28,2022-11-04,Second Class,Consumer,Dallas,South,Office Supplies,Envelopes,3826.68,7,0.3,-380.53
+ORD-1813,2022-12-06,2022-12-11,Same Day,Home Office,Boston,East,Furniture,Tables,87.97,6,0.1,-3.03
+ORD-1814,2022-08-01,2022-08-05,Second Class,Consumer,Philadelphia,East,Technology,Copiers,431.42,3,0.3,-75.79
+ORD-1815,2023-05-29,2023-05-31,Second Class,Consumer,Detroit,North,Furniture,Bookcases,2379.99,9,0.0,619.61
+ORD-1816,2023-04-02,2023-04-03,Standard Class,Home Office,San Francisco,West,Furniture,Chairs,1383.83,7,0.1,316.52
+ORD-1817,2023-04-15,2023-04-20,Same Day,Consumer,Denver,West,Furniture,Chairs,1546.1,7,0.1,25.56
+ORD-1818,2021-08-14,2021-08-17,First Class,Consumer,Miami,South,Office Supplies,Paper,1830.61,4,0.2,116.2
+ORD-1819,2022-10-21,2022-10-23,Same Day,Consumer,Los Angeles,West,Furniture,Chairs,1440.88,2,0.2,176.57
+ORD-1820,2022-09-16,2022-09-17,First Class,Corporate,Minneapolis,North,Technology,Accessories,502.5,3,0.0,128.08
+ORD-1821,2022-07-20,2022-07-22,Standard Class,Consumer,Detroit,North,Office Supplies,Storage,2929.95,3,0.0,926.33
+ORD-1822,2021-06-03,2021-06-08,Second Class,Consumer,Los Angeles,West,Furniture,Furnishings,3102.67,4,0.2,209.76
+ORD-1823,2022-12-13,2022-12-16,Same Day,Corporate,Seattle,West,Furniture,Furnishings,2253.44,2,0.0,728.44
+ORD-1824,2022-08-17,2022-08-18,Same Day,Corporate,Boston,East,Furniture,Bookcases,4779.9,4,0.0,1378.13
+ORD-1825,2023-03-11,2023-03-15,Second Class,Home Office,Newark,East,Furniture,Furnishings,3043.95,3,0.1,15.89
+ORD-1826,2022-09-14,2022-09-21,Second Class,Consumer,Philadelphia,East,Office Supplies,Envelopes,1117.27,3,0.2,17.48
+ORD-1827,2022-07-23,2022-07-25,Second Class,Home Office,San Francisco,West,Technology,Phones,1366.77,4,0.0,331.75
+ORD-1828,2022-10-27,2022-10-28,Same Day,Home Office,Philadelphia,East,Furniture,Bookcases,4733.21,3,0.4,-1281.7
+ORD-1829,2022-12-30,2023-01-01,Standard Class,Home Office,Chicago,North,Technology,Phones,3657.77,1,0.2,-354.73
+ORD-1830,2023-06-25,2023-06-27,Second Class,Corporate,Dallas,South,Office Supplies,Storage,1634.83,7,0.1,203.53
+ORD-1831,2021-10-31,2021-11-04,Second Class,Home Office,Seattle,West,Office Supplies,Envelopes,486.58,3,0.1,42.73
+ORD-1832,2021-02-13,2021-02-16,Second Class,Consumer,Miami,South,Office Supplies,Binders,831.33,10,0.1,162.32
+ORD-1833,2023-07-21,2023-07-27,Standard Class,Home Office,San Francisco,West,Furniture,Furnishings,4852.52,3,0.0,1297.04
+ORD-1834,2021-08-14,2021-08-21,First Class,Consumer,New York,East,Technology,Copiers,87.49,2,0.0,7.84
+ORD-1835,2021-06-24,2021-06-26,First Class,Corporate,Philadelphia,East,Furniture,Chairs,713.37,3,0.4,-58.7
+ORD-1836,2022-07-02,2022-07-08,First Class,Consumer,Houston,South,Furniture,Tables,2727.19,2,0.0,811.28
+ORD-1837,2021-02-19,2021-02-21,Second Class,Home Office,Dallas,South,Furniture,Chairs,2147.13,5,0.1,120.22
+ORD-1838,2021-12-14,2021-12-15,First Class,Consumer,Atlanta,South,Office Supplies,Paper,1138.12,10,0.2,-48.72
+ORD-1839,2021-12-31,2022-01-04,Second Class,Home Office,Detroit,North,Furniture,Chairs,2661.79,7,0.4,-786.8
+ORD-1840,2021-08-01,2021-08-04,Standard Class,Consumer,Minneapolis,North,Office Supplies,Storage,4582.85,2,0.2,595.15
+ORD-1841,2023-07-04,2023-07-10,Same Day,Home Office,Denver,West,Technology,Computers,3988.32,2,0.3,-22.35
+ORD-1842,2021-09-19,2021-09-21,Same Day,Home Office,Minneapolis,North,Furniture,Chairs,3842.33,7,0.2,-208.27
+ORD-1843,2022-05-19,2022-05-23,Second Class,Corporate,Dallas,South,Office Supplies,Storage,2104.92,8,0.3,-186.02
+ORD-1844,2021-06-28,2021-06-30,First Class,Home Office,Boston,East,Office Supplies,Envelopes,1821.31,1,0.1,452.0
+ORD-1845,2022-12-17,2022-12-20,Same Day,Consumer,Houston,South,Furniture,Chairs,4246.78,3,0.1,163.12
+ORD-1846,2021-08-29,2021-09-04,First Class,Consumer,San Francisco,West,Furniture,Chairs,3525.74,7,0.3,-106.04
+ORD-1847,2021-11-20,2021-11-21,Standard Class,Home Office,Newark,East,Office Supplies,Paper,751.5,2,0.1,-19.77
+ORD-1848,2021-10-14,2021-10-20,Same Day,Home Office,Atlanta,South,Furniture,Tables,2646.7,6,0.2,-23.67
+ORD-1849,2021-05-03,2021-05-09,Same Day,Corporate,Boston,East,Technology,Phones,179.95,1,0.1,18.17
+ORD-1850,2022-04-11,2022-04-15,Same Day,Consumer,Miami,South,Office Supplies,Storage,4658.62,9,0.2,661.23
+ORD-1851,2023-03-15,2023-03-17,Same Day,Corporate,San Francisco,West,Technology,Phones,4116.07,2,0.4,-693.45
+ORD-1852,2021-12-04,2021-12-05,Standard Class,Consumer,Milwaukee,North,Office Supplies,Envelopes,4020.63,2,0.3,-770.28
+ORD-1853,2022-05-06,2022-05-09,Standard Class,Corporate,Chicago,North,Office Supplies,Storage,830.55,10,0.0,57.8
+ORD-1854,2022-05-08,2022-05-11,Same Day,Consumer,Los Angeles,West,Office Supplies,Binders,443.5,10,0.4,-80.08
+ORD-1855,2021-01-18,2021-01-21,Same Day,Home Office,Philadelphia,East,Technology,Phones,3763.36,6,0.3,-376.09
+ORD-1856,2023-04-15,2023-04-21,Standard Class,Home Office,Minneapolis,North,Furniture,Chairs,2527.82,3,0.4,-272.38
+ORD-1857,2021-11-27,2021-11-29,Second Class,Consumer,Miami,South,Technology,Phones,3418.22,2,0.0,1078.66
+ORD-1858,2023-07-06,2023-07-13,Standard Class,Home Office,Seattle,West,Office Supplies,Binders,673.36,7,0.2,-28.22
+ORD-1859,2021-11-09,2021-11-14,Second Class,Corporate,Houston,South,Furniture,Tables,3146.39,1,0.3,-694.65
+ORD-1860,2022-10-05,2022-10-07,First Class,Corporate,Newark,East,Technology,Phones,4671.6,10,0.1,-138.05
+ORD-1861,2022-06-13,2022-06-17,Standard Class,Home Office,Newark,East,Furniture,Tables,4892.85,3,0.3,-268.68
+ORD-1862,2023-04-02,2023-04-06,First Class,Corporate,Miami,South,Furniture,Bookcases,4287.86,9,0.1,352.67
+ORD-1863,2022-06-23,2022-06-29,Standard Class,Consumer,Newark,East,Office Supplies,Envelopes,232.52,4,0.0,63.32
+ORD-1864,2023-03-29,2023-04-05,First Class,Corporate,Boston,East,Technology,Copiers,383.43,2,0.3,4.7
+ORD-1865,2021-06-25,2021-06-27,Same Day,Corporate,Houston,South,Office Supplies,Envelopes,3664.26,4,0.3,-71.58
+ORD-1866,2022-03-12,2022-03-18,Second Class,Corporate,Newark,East,Technology,Accessories,3711.6,1,0.0,495.55
+ORD-1867,2021-03-06,2021-03-11,Same Day,Corporate,Seattle,West,Office Supplies,Binders,3875.54,6,0.0,1282.56
+ORD-1868,2023-05-17,2023-05-20,First Class,Corporate,Los Angeles,West,Furniture,Tables,1275.32,2,0.1,-31.78
+ORD-1869,2023-12-11,2023-12-13,Standard Class,Corporate,Newark,East,Technology,Copiers,3354.83,1,0.2,-317.96
+ORD-1870,2022-12-17,2022-12-21,Same Day,Corporate,Detroit,North,Technology,Computers,2418.49,3,0.4,-346.69
+ORD-1871,2021-10-24,2021-10-27,Second Class,Corporate,Houston,South,Furniture,Tables,3327.03,8,0.2,-484.89
+ORD-1872,2023-12-03,2023-12-09,Same Day,Home Office,Minneapolis,North,Furniture,Furnishings,38.31,3,0.3,1.26
+ORD-1873,2023-05-11,2023-05-17,First Class,Consumer,Boston,East,Furniture,Tables,2739.51,4,0.1,356.91
+ORD-1874,2023-01-16,2023-01-17,Same Day,Home Office,Seattle,West,Office Supplies,Paper,1523.68,2,0.2,0.95
+ORD-1875,2022-12-23,2022-12-30,Standard Class,Consumer,Miami,South,Technology,Copiers,2721.49,6,0.4,-157.24
+ORD-1876,2021-11-30,2021-12-05,First Class,Home Office,Dallas,South,Technology,Accessories,2190.66,7,0.2,226.79
+ORD-1877,2021-02-03,2021-02-08,Standard Class,Home Office,New York,East,Furniture,Chairs,4663.83,10,0.0,927.74
+ORD-1878,2023-05-12,2023-05-14,Second Class,Corporate,Miami,South,Office Supplies,Paper,1129.94,2,0.3,-95.51
+ORD-1879,2023-03-22,2023-03-23,First Class,Corporate,Newark,East,Technology,Copiers,4699.29,5,0.1,480.59
+ORD-1880,2023-04-30,2023-05-01,First Class,Corporate,Houston,South,Office Supplies,Binders,97.34,9,0.1,18.22
+ORD-1881,2023-03-13,2023-03-15,Same Day,Consumer,San Francisco,West,Office Supplies,Envelopes,3089.01,10,0.3,-4.43
+ORD-1882,2022-10-14,2022-10-19,Standard Class,Home Office,Atlanta,South,Office Supplies,Binders,809.05,3,0.1,-16.28
+ORD-1883,2022-10-23,2022-10-25,Second Class,Consumer,Dallas,South,Office Supplies,Storage,484.41,10,0.0,87.79
+ORD-1884,2021-09-25,2021-09-29,First Class,Consumer,New York,East,Office Supplies,Envelopes,3179.63,4,0.2,-298.99
+ORD-1885,2021-04-16,2021-04-19,Standard Class,Consumer,Seattle,West,Office Supplies,Envelopes,433.16,10,0.1,59.88
+ORD-1886,2021-10-18,2021-10-21,First Class,Consumer,Houston,South,Office Supplies,Paper,1324.73,8,0.1,-29.37
+ORD-1887,2023-04-28,2023-04-29,Same Day,Corporate,Houston,South,Furniture,Furnishings,2442.86,7,0.0,276.26
+ORD-1888,2021-01-21,2021-01-23,First Class,Corporate,Miami,South,Furniture,Tables,3305.14,2,0.4,-309.22
+ORD-1889,2023-12-05,2023-12-11,Standard Class,Home Office,Dallas,South,Office Supplies,Paper,1287.42,1,0.0,138.85
+ORD-1890,2022-03-21,2022-03-22,First Class,Corporate,Los Angeles,West,Furniture,Bookcases,1651.15,3,0.1,-41.22
+ORD-1891,2022-08-26,2022-08-30,Second Class,Corporate,Miami,South,Furniture,Chairs,3731.07,7,0.3,-444.67
+ORD-1892,2021-07-30,2021-08-04,Same Day,Corporate,Denver,West,Furniture,Bookcases,3969.9,4,0.4,-1018.38
+ORD-1893,2021-08-09,2021-08-14,Standard Class,Corporate,Miami,South,Technology,Accessories,1927.57,6,0.1,231.58
+ORD-1894,2022-08-25,2022-08-30,Standard Class,Consumer,Denver,West,Furniture,Bookcases,4136.9,1,0.4,-1010.74
+ORD-1895,2022-05-18,2022-05-19,Standard Class,Consumer,Minneapolis,North,Technology,Computers,1091.62,6,0.2,-41.93
+ORD-1896,2022-03-14,2022-03-18,Standard Class,Corporate,Minneapolis,North,Office Supplies,Paper,2846.0,9,0.2,340.45
+ORD-1897,2021-07-30,2021-08-04,Same Day,Home Office,Detroit,North,Office Supplies,Binders,1404.68,2,0.4,-92.88
+ORD-1898,2022-02-08,2022-02-09,Same Day,Consumer,Dallas,South,Technology,Accessories,4017.57,5,0.3,-948.0
+ORD-1899,2023-02-24,2023-02-26,Standard Class,Corporate,Philadelphia,East,Technology,Computers,2890.54,10,0.2,-418.11
+ORD-1900,2023-12-29,2024-01-03,Same Day,Home Office,Chicago,North,Furniture,Furnishings,214.82,2,0.0,15.22
+ORD-1901,2023-03-31,2023-04-01,Same Day,Corporate,Minneapolis,North,Technology,Accessories,2791.12,1,0.2,-5.18
+ORD-1902,2021-07-30,2021-07-31,Same Day,Consumer,Miami,South,Technology,Phones,1135.59,6,0.0,104.04
+ORD-1903,2021-01-11,2021-01-17,Standard Class,Consumer,Seattle,West,Furniture,Tables,4342.71,1,0.2,499.39
+ORD-1904,2023-02-17,2023-02-20,Second Class,Corporate,Minneapolis,North,Furniture,Bookcases,3499.35,2,0.1,437.54
+ORD-1905,2021-09-08,2021-09-13,First Class,Corporate,Denver,West,Office Supplies,Envelopes,2647.39,8,0.4,-547.01
+ORD-1906,2022-08-30,2022-09-05,Second Class,Home Office,Miami,South,Furniture,Chairs,432.32,4,0.4,-42.95
+ORD-1907,2022-03-12,2022-03-13,Same Day,Consumer,New York,East,Furniture,Furnishings,3359.08,4,0.3,-14.94
+ORD-1908,2023-07-19,2023-07-25,Second Class,Corporate,Minneapolis,North,Furniture,Bookcases,786.91,3,0.4,-250.47
+ORD-1909,2022-01-20,2022-01-21,Standard Class,Consumer,Atlanta,South,Technology,Computers,1403.64,10,0.1,218.8
+ORD-1910,2021-02-03,2021-02-07,Same Day,Corporate,Dallas,South,Furniture,Chairs,951.41,9,0.0,183.5
+ORD-1911,2023-06-03,2023-06-05,Standard Class,Corporate,Minneapolis,North,Furniture,Chairs,770.09,6,0.4,-169.99
+ORD-1912,2023-02-23,2023-03-01,Second Class,Home Office,Chicago,North,Technology,Phones,4641.54,7,0.1,177.32
+ORD-1913,2021-08-12,2021-08-18,Standard Class,Consumer,Milwaukee,North,Office Supplies,Envelopes,268.36,4,0.1,63.79
+ORD-1914,2021-05-15,2021-05-20,Same Day,Corporate,Boston,East,Office Supplies,Storage,523.14,7,0.1,112.36
+ORD-1915,2022-02-26,2022-02-28,First Class,Home Office,Newark,East,Furniture,Bookcases,3932.92,10,0.2,161.52
+ORD-1916,2022-09-18,2022-09-25,Second Class,Consumer,Newark,East,Furniture,Tables,4535.21,2,0.1,4.85
+ORD-1917,2023-08-30,2023-09-03,Second Class,Home Office,Chicago,North,Technology,Computers,1683.59,2,0.1,407.95
+ORD-1918,2021-01-03,2021-01-07,First Class,Consumer,Newark,East,Office Supplies,Storage,4368.63,1,0.3,-948.8
+ORD-1919,2022-09-16,2022-09-23,First Class,Home Office,Los Angeles,West,Furniture,Chairs,3686.21,6,0.3,-378.95
+ORD-1920,2021-01-28,2021-02-04,Same Day,Consumer,Atlanta,South,Technology,Accessories,1776.08,10,0.2,208.53
+ORD-1921,2023-04-21,2023-04-28,Second Class,Home Office,Detroit,North,Office Supplies,Paper,1116.87,1,0.1,63.84
+ORD-1922,2022-02-01,2022-02-05,Same Day,Home Office,Houston,South,Technology,Computers,3200.89,9,0.2,362.16
+ORD-1923,2023-03-12,2023-03-17,First Class,Home Office,Seattle,West,Technology,Accessories,2098.13,1,0.2,-120.02
+ORD-1924,2022-08-14,2022-08-15,Same Day,Home Office,Philadelphia,East,Technology,Copiers,4847.96,3,0.3,136.57
+ORD-1925,2022-09-14,2022-09-18,Second Class,Corporate,San Francisco,West,Office Supplies,Storage,1455.53,1,0.2,-211.52
+ORD-1926,2021-01-11,2021-01-15,First Class,Corporate,Philadelphia,East,Furniture,Furnishings,1774.23,3,0.0,115.27
+ORD-1927,2022-02-07,2022-02-11,Same Day,Corporate,San Francisco,West,Furniture,Bookcases,2934.42,1,0.0,402.72
+ORD-1928,2023-03-29,2023-03-30,Same Day,Home Office,Denver,West,Office Supplies,Envelopes,4467.31,3,0.2,130.05
+ORD-1929,2022-05-28,2022-05-30,First Class,Home Office,Detroit,North,Office Supplies,Binders,2093.24,2,0.1,84.4
+ORD-1930,2023-06-14,2023-06-15,First Class,Corporate,Atlanta,South,Office Supplies,Binders,710.28,9,0.3,-29.66
+ORD-1931,2023-04-21,2023-04-25,Standard Class,Consumer,Milwaukee,North,Technology,Copiers,157.81,7,0.4,-53.98
+ORD-1932,2022-08-24,2022-08-25,Same Day,Home Office,Detroit,North,Furniture,Bookcases,3781.57,1,0.3,-802.52
+ORD-1933,2022-07-08,2022-07-15,First Class,Home Office,Houston,South,Furniture,Chairs,4931.14,2,0.0,739.89
+ORD-1934,2021-09-06,2021-09-12,Second Class,Home Office,Houston,South,Office Supplies,Storage,2931.4,1,0.4,-375.78
+ORD-1935,2022-04-03,2022-04-09,Standard Class,Corporate,San Francisco,West,Office Supplies,Envelopes,3205.55,5,0.1,129.08
+ORD-1936,2021-11-10,2021-11-15,Standard Class,Corporate,Los Angeles,West,Furniture,Chairs,4401.9,4,0.4,-1412.75
+ORD-1937,2021-04-24,2021-04-25,First Class,Home Office,Newark,East,Office Supplies,Envelopes,1513.62,4,0.3,67.82
+ORD-1938,2021-10-27,2021-11-02,Second Class,Home Office,Atlanta,South,Office Supplies,Paper,127.86,4,0.1,25.0
+ORD-1939,2022-08-16,2022-08-22,Same Day,Corporate,Seattle,West,Technology,Copiers,518.1,5,0.4,-104.71
+ORD-1940,2021-10-31,2021-11-01,First Class,Consumer,Newark,East,Technology,Copiers,1431.44,1,0.0,313.86
+ORD-1941,2023-08-17,2023-08-23,Second Class,Corporate,Dallas,South,Furniture,Bookcases,2302.58,6,0.0,793.3
+ORD-1942,2021-11-07,2021-11-10,First Class,Home Office,Dallas,South,Office Supplies,Paper,3286.55,3,0.4,-815.76
+ORD-1943,2023-02-11,2023-02-15,First Class,Consumer,Milwaukee,North,Technology,Phones,3037.09,9,0.1,372.99
+ORD-1944,2021-05-19,2021-05-20,Same Day,Home Office,Milwaukee,North,Office Supplies,Storage,167.02,2,0.1,3.26
+ORD-1945,2021-08-04,2021-08-06,Standard Class,Consumer,Dallas,South,Technology,Computers,3646.25,7,0.3,-84.8
+ORD-1946,2023-06-24,2023-07-01,Standard Class,Home Office,Chicago,North,Furniture,Chairs,1884.12,6,0.0,616.23
+ORD-1947,2022-02-05,2022-02-08,Same Day,Home Office,Dallas,South,Technology,Computers,2465.69,3,0.2,-203.05
+ORD-1948,2022-02-21,2022-02-22,Standard Class,Corporate,Los Angeles,West,Furniture,Chairs,4053.84,7,0.0,639.97
+ORD-1949,2022-03-01,2022-03-06,Second Class,Consumer,San Francisco,West,Office Supplies,Envelopes,4141.33,10,0.4,-1012.01
+ORD-1950,2021-06-10,2021-06-12,Second Class,Consumer,Houston,South,Technology,Copiers,3916.29,8,0.2,-468.88
+ORD-1951,2022-05-30,2022-06-03,First Class,Consumer,Minneapolis,North,Furniture,Tables,3522.3,3,0.0,1098.02
+ORD-1952,2021-04-27,2021-05-02,Standard Class,Consumer,Denver,West,Office Supplies,Storage,3493.64,5,0.0,785.48
+ORD-1953,2022-11-17,2022-11-24,Standard Class,Consumer,Detroit,North,Technology,Accessories,315.77,6,0.1,36.04
+ORD-1954,2021-05-25,2021-05-29,Same Day,Consumer,Miami,South,Furniture,Chairs,2998.78,9,0.4,-213.49
+ORD-1955,2021-03-14,2021-03-18,Second Class,Consumer,Chicago,North,Office Supplies,Paper,2547.87,5,0.2,-52.35
+ORD-1956,2021-02-07,2021-02-12,Same Day,Home Office,Newark,East,Furniture,Tables,2421.22,3,0.3,-49.14
+ORD-1957,2023-06-16,2023-06-17,Same Day,Consumer,Houston,South,Office Supplies,Binders,4487.79,6,0.2,-199.54
+ORD-1958,2022-04-11,2022-04-15,Second Class,Consumer,Los Angeles,West,Furniture,Chairs,3742.43,1,0.4,-672.09
+ORD-1959,2022-01-05,2022-01-08,First Class,Consumer,Newark,East,Furniture,Tables,237.72,4,0.2,7.3
+ORD-1960,2021-06-06,2021-06-09,Second Class,Corporate,Houston,South,Technology,Phones,4693.08,6,0.1,462.17
+ORD-1961,2023-12-15,2023-12-18,First Class,Corporate,Detroit,North,Technology,Accessories,1607.92,1,0.4,-319.92
+ORD-1962,2021-10-08,2021-10-15,Second Class,Consumer,Dallas,South,Technology,Phones,4880.17,9,0.1,202.44
+ORD-1963,2022-04-27,2022-05-03,Same Day,Consumer,Chicago,North,Office Supplies,Binders,2212.58,1,0.3,79.46
+ORD-1964,2021-06-23,2021-06-24,Same Day,Corporate,Minneapolis,North,Technology,Copiers,1409.88,1,0.4,-331.07
+ORD-1965,2023-02-16,2023-02-18,Standard Class,Home Office,Dallas,South,Furniture,Tables,3306.43,5,0.4,-1105.41
+ORD-1966,2022-03-20,2022-03-27,Standard Class,Consumer,Minneapolis,North,Furniture,Bookcases,156.18,7,0.4,-34.32
+ORD-1967,2023-05-19,2023-05-24,Same Day,Home Office,Atlanta,South,Office Supplies,Storage,3601.72,7,0.4,-979.56
+ORD-1968,2022-07-16,2022-07-17,Same Day,Consumer,Seattle,West,Furniture,Chairs,4994.05,10,0.4,-1304.71
+ORD-1969,2021-01-26,2021-01-27,Same Day,Corporate,Minneapolis,North,Technology,Accessories,1548.34,3,0.2,156.07
+ORD-1970,2021-03-17,2021-03-20,Standard Class,Corporate,Newark,East,Technology,Phones,2411.44,1,0.4,-686.41
+ORD-1971,2022-06-13,2022-06-20,Second Class,Home Office,Detroit,North,Furniture,Furnishings,3937.94,3,0.2,436.0
+ORD-1972,2021-08-23,2021-08-29,First Class,Consumer,San Francisco,West,Furniture,Chairs,211.74,10,0.4,-19.44
+ORD-1973,2021-02-03,2021-02-09,Second Class,Corporate,Seattle,West,Furniture,Bookcases,4227.76,1,0.2,51.29
+ORD-1974,2023-11-13,2023-11-14,Standard Class,Home Office,New York,East,Furniture,Furnishings,1200.15,7,0.2,25.33
+ORD-1975,2022-10-31,2022-11-05,Same Day,Corporate,Houston,South,Technology,Computers,3945.06,6,0.2,562.29
+ORD-1976,2022-08-19,2022-08-21,First Class,Home Office,New York,East,Furniture,Bookcases,4561.13,4,0.0,373.42
+ORD-1977,2021-11-04,2021-11-08,Same Day,Home Office,Chicago,North,Furniture,Furnishings,3817.81,4,0.0,1284.9
+ORD-1978,2023-12-11,2023-12-16,First Class,Consumer,Newark,East,Office Supplies,Paper,2216.27,10,0.2,-202.77
+ORD-1979,2023-07-23,2023-07-26,Same Day,Corporate,Detroit,North,Furniture,Bookcases,3745.98,8,0.0,966.17
+ORD-1980,2023-09-19,2023-09-24,Second Class,Corporate,Philadelphia,East,Technology,Phones,1167.14,3,0.3,-211.34
+ORD-1981,2022-12-01,2022-12-04,Same Day,Home Office,Seattle,West,Office Supplies,Storage,607.46,3,0.3,-75.14
+ORD-1982,2021-12-08,2021-12-09,Standard Class,Consumer,Los Angeles,West,Furniture,Furnishings,2104.76,8,0.4,-287.48
+ORD-1983,2021-05-30,2021-06-01,First Class,Consumer,Boston,East,Technology,Phones,2584.19,7,0.4,-192.3
+ORD-1984,2021-09-01,2021-09-04,Standard Class,Home Office,Miami,South,Office Supplies,Binders,4489.18,10,0.2,123.2
+ORD-1985,2023-04-18,2023-04-24,Second Class,Home Office,Newark,East,Furniture,Bookcases,2259.77,8,0.3,-368.82
+ORD-1986,2021-01-16,2021-01-21,Second Class,Home Office,San Francisco,West,Office Supplies,Paper,2973.38,8,0.3,-404.94
+ORD-1987,2023-10-08,2023-10-11,Same Day,Corporate,Minneapolis,North,Furniture,Tables,260.47,10,0.4,-21.05
+ORD-1988,2021-10-21,2021-10-22,First Class,Consumer,Detroit,North,Technology,Accessories,4073.66,5,0.1,322.48
+ORD-1989,2022-08-13,2022-08-16,First Class,Home Office,Chicago,North,Technology,Computers,2443.45,5,0.1,526.82
+ORD-1990,2021-07-16,2021-07-18,Standard Class,Home Office,Boston,East,Furniture,Bookcases,2769.77,1,0.4,-342.18
+ORD-1991,2023-01-27,2023-01-29,Second Class,Corporate,Los Angeles,West,Furniture,Furnishings,1423.55,8,0.4,-316.1
+ORD-1992,2023-06-05,2023-06-09,First Class,Consumer,Milwaukee,North,Furniture,Chairs,1330.02,2,0.1,329.74
+ORD-1993,2021-11-17,2021-11-22,Standard Class,Home Office,Seattle,West,Office Supplies,Paper,1689.98,9,0.3,-102.77
+ORD-1994,2023-12-04,2023-12-07,Standard Class,Consumer,Chicago,North,Furniture,Furnishings,968.19,1,0.4,-146.84
+ORD-1995,2022-02-05,2022-02-08,First Class,Consumer,San Francisco,West,Office Supplies,Envelopes,2361.17,8,0.3,-13.79
+ORD-1996,2021-01-07,2021-01-11,Standard Class,Corporate,San Francisco,West,Office Supplies,Paper,354.96,3,0.4,-59.15
+ORD-1997,2022-12-16,2022-12-20,First Class,Home Office,Detroit,North,Office Supplies,Envelopes,2661.7,4,0.1,567.92
+ORD-1998,2023-09-13,2023-09-16,Same Day,Corporate,Miami,South,Technology,Copiers,500.74,5,0.0,169.69
+ORD-1999,2021-12-27,2021-12-31,Second Class,Corporate,Chicago,North,Furniture,Furnishings,4782.45,7,0.0,737.81
